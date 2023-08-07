@@ -22,27 +22,27 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="{{ asset('/vendors/web/bootstrap/css/bootstrap.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/animate/animate.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/animate/custom-animate.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/fontawesome/css/all.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/jarallax/jarallax.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/jquery-magnific-popup/jquery.magnific-popup.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/nouislider/nouislider.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/nouislider/nouislider.pips.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/odometer/odometer.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/swiper/swiper.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/delogis-icons/style.css') }}">
-    <link rel="stylesheet" href="{{ asset('/vendors/web/tiny-slider/tiny-slider.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/reey-font/stylesheet.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/alagambe-font/stylesheet.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/owl-carousel/owl.carousel.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/owl-carousel/owl.theme.default.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/bxslider/jquery.bxslider.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/bootstrap-select/css/bootstrap-select.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/vegas/vegas.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/jquery-ui/jquery-ui.css') }}" />
-    <link rel="stylesheet" href="{{ asset('/vendors/web/timepicker/timePicker.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/bootstrap/css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/animate/animate.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/animate/custom-animate.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/fontawesome/css/all.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/jarallax/jarallax.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/jquery-magnific-popup/jquery.magnific-popup.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/nouislider/nouislider.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/nouislider/nouislider.pips.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/odometer/odometer.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/swiper/swiper.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/delogis-icons/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendors/web/tiny-slider/tiny-slider.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/reey-font/stylesheet.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/alagambe-font/stylesheet.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/owl-carousel/owl.carousel.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/owl-carousel/owl.theme.default.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/bxslider/jquery.bxslider.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/bootstrap-select/css/bootstrap-select.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/vegas/vegas.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/jquery-ui/jquery-ui.css') }}" />
+    <link rel="stylesheet" href="{{ asset('vendors/web/timepicker/timePicker.css') }}" />
 
     <!-- template styles -->
     <link rel="stylesheet" href="{{ asset('css/delogis_home.css') }}" />
