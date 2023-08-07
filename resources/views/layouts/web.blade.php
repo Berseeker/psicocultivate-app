@@ -45,7 +45,7 @@
     <link rel="stylesheet" href="{{ asset('/vendors/web/timepicker/timePicker.css') }}" />
 
     <!-- template styles -->
-    <link rel="stylesheet" href="{{ asset('css/web/delogis.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/web/delogis_home.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/web/delogis-responsive.css') }}" />
 </head>
 
