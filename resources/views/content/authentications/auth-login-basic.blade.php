@@ -92,7 +92,7 @@ $customizerHidden = 'customizer-hide';
           </div>
 
           <div class="d-flex justify-content-center">
-            <a href="{{ route('auth.facebook') }}" class="btn btn-icon btn-label-facebook me-3">
+            <a href="{{ route('auth.provider.redirect', ['facebook']) }}" class="btn btn-icon btn-label-facebook me-3">
               <i class="tf-icons fa-brands fa-facebook-f fs-5"></i>
             </a>
 

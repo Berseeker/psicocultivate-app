@@ -201,13 +201,5 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::get('/auth/facebookredirect', function () {
-    return Socialite::driver('facebook')->redirect();
-})->name('auth.facebook');
-
-
-Route::get('/auth/facebook/callback', function () {
-    $user = Socialite::driver('facebook')->user();
-
-    dd($user);
-});
+Route::get('auth/{{provider}}/redirect', [App\Http\Controllers\SocialProviderController::class, 'index'])->name('auth.provider.redirect');
+Route::get('auth/{{provider}}/callback', [App\Http\Controllers\SocialProviderController::class, 'callback'])->name('auth.provider.callback');
