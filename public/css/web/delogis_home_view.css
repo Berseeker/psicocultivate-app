@@ -2646,12 +2646,12 @@ ul {
 --------------------------------------------------------------*/
 .main-slider-three {
   position: relative;
-  background-color: #f1ece9;
+  background-color: white; /* #f1ece9 */
   z-index: 10;
 }
 
 .main-slider-three .item {
-  background-color: #f1ece9;
+  background-color: white; /* #f1ece9 */
   position: relative;
   padding-top: 284px;
   padding-bottom: 232px;
