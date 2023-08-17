@@ -43,7 +43,6 @@
     <link rel="stylesheet" href="{{ asset('vendors/web/vegas/vegas.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('vendors/web/jquery-ui/jquery-ui.css') }}" />
     <link rel="stylesheet" href="{{ asset('vendors/web/timepicker/timePicker.css') }}" />
-
     <!-- template styles -->
     <link rel="stylesheet" href="{{ asset('css/web/delogis_home.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/web/delogis-responsive.css') }}" />
