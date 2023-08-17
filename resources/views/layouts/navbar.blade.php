@@ -4,7 +4,7 @@
             <div class="main-menu-three__wrapper-inner">
                 <div class="main-menu-three__left">
                     <div class="main-menu-three__logo">
-                        <a href="index.html"><img src="{{ asset('/images/resources/logo-1.png') }}" alt=""></a>
+                        <a href="index.html"><img src="{{ asset('/images/logos/psicocultivate.svg') }}" alt=""></a>
                     </div>
                     <div class="main-menu-three__main-menu-box">
                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
