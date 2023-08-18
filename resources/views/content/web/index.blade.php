@@ -12,7 +12,7 @@
               <div class="main-slider-three__bg"
                   style="background-image: url(/images/backgrounds/main-slider-three-bg.jpg);"></div>
               <div class="main-slider-three__shape-3 img-bounce">
-                  <img src="{{ asset('/images/shapes/main-slider-three-shape-3.png') }}" alt="">
+                  <img src="{{ asset('/images/shapes/ramas.png') }}" alt="">
               </div>
               <div class="main-slider-three__img">
                   <img src="{{ asset('/images/sliders/slide.png') }}" alt=""> <!-- imagen principal -->
@@ -29,27 +29,27 @@
                           <div class="main-slider-three__shape-1"
                               style="background-image: url(images/shapes/main-slider-three-shape-1.png);">
                           </div>
-                          <p class="main-slider-three__sub-title">100% Positive Result</p>
+                          <p class="main-slider-three__sub-title">Terapia Online</p>
                       </div>
-                      <h2 class="main-slider-three__title">We’re Ready to <br>
-                          Listen Your <span>Issues</span></h2>
+                      <h2 class="main-slider-three__title">Un espacio seguro,<br>
+                          es un espacio de <br> <span>cambios</span></h2>
                       <div class="main-slider-three__btn-founder-box">
                           <a href="make-appointment.html" class="main-slider-two__btn-one thm-btn">Make an
                               Appointment</a>
                           <div class="main-slider-three__founder-box">
-                              <h4 class="main-slider-three__founder-name">Christine</h4>
-                              <p class="main-slider-three__founder-sub-title">Christine Eve - Founder</p>
+                              <h4 class="main-slider-three__founder-name">Osiris</h4>
+                              <p class="main-slider-three__founder-sub-title">Osiris Morales - Psicóloga</p>
                           </div>
                       </div>
                   </div>
               </div>
           </div>
 
-          <div class="item main-slider-three__slide-2">
+          <!--div class="item main-slider-three__slide-2">
               <div class="main-slider-three__bg"
                   style="background-image: url(images/backgrounds/main-slider-three-bg.jpg);"></div>
               <div class="main-slider-three__shape-3 img-bounce">
-                  <img src="{{ asset('/images/shapes/main-slider-three-shape-3.png') }}" alt="">
+                  <img src="{{ asset('/images/shapes/ramas.png') }}" alt="">
               </div>
               <div class="main-slider-three__img">
                   <img src="{{ asset('/images/sliders/slide_2.png') }}" alt="">
@@ -66,27 +66,27 @@
                           <div class="main-slider-three__shape-1"
                               style="background-image: url(images/shapes/main-slider-three-shape-1.png);">
                           </div>
-                          <p class="main-slider-three__sub-title">100% Positive Result</p>
+                          <p class="main-slider-three__sub-title">Online</p>
                       </div>
-                      <h2 class="main-slider-three__title">We’re Ready to <br>
-                          Listen Your <span>Issues</span></h2>
+                      <h2 class="main-slider-three__title">Un espacio seguro,<br>
+                          es un espacio de <br> <span>cambios</span></h2>
                       <div class="main-slider-three__btn-founder-box">
                           <a href="make-appointment.html" class="main-slider-two__btn-one thm-btn">Make an
                               Appointment</a>
                           <div class="main-slider-three__founder-box">
-                              <h4 class="main-slider-three__founder-name">Christine</h4>
-                              <p class="main-slider-three__founder-sub-title">Christine Eve - Founder</p>
+                              <h4 class="main-slider-three__founder-name">Osiris</h4>
+                              <p class="main-slider-three__founder-sub-title">Osiris Morales - Psicóloga</p>
                           </div>
                       </div>
                   </div>
               </div>
-          </div>
+          </div-->
 
-          <div class="item main-slider-three__slide-3">
+          <!--div class="item main-slider-three__slide-3">
               <div class="main-slider-three__bg"
                   style="background-image: url(images/backgrounds/main-slider-three-bg.jpg);"></div>
               <div class="main-slider-three__shape-3 img-bounce">
-                  <img src="{{ asset('/images/shapes/main-slider-three-shape-3.png') }}" alt="">
+                  <img src="{{ asset('/images/shapes/ramas.png') }}" alt="">
               </div>
               <div class="main-slider-three__img">
                   <img src="{{ asset('/images/resources/main-slider-three-img-3.png') }}" alt="">
@@ -117,7 +117,7 @@
                       </div>
                   </div>
               </div>
-          </div>
+          </div-->
 
       </div>
   </section>
