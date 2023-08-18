@@ -12,7 +12,7 @@
               <div class="main-slider-three__bg"
                   style="background-image: url(/images/backgrounds/main-slider-three-bg.jpg);"></div>
               <div class="main-slider-three__shape-3 img-bounce">
-                  <img src="{{ asset('/images/shapes/ramas.png') }}" alt="">
+                  <img src="{{ asset('/images/shapes/ramas_2.png') }}" alt="">
               </div>
               <div class="main-slider-three__img">
                   <img src="{{ asset('/images/sliders/slide.png') }}" alt=""> <!-- imagen principal -->
@@ -34,8 +34,7 @@
                       <h2 class="main-slider-three__title">Un espacio seguro,<br>
                           es un espacio de <br> <span>cambios</span></h2>
                       <div class="main-slider-three__btn-founder-box">
-                          <a href="make-appointment.html" class="main-slider-two__btn-one thm-btn">Make an
-                              Appointment</a>
+                          <a href="make-appointment.html" class="main-slider-two__btn-one thm-btn">Haz un cita</a>
                           <div class="main-slider-three__founder-box">
                               <h4 class="main-slider-three__founder-name">Osiris</h4>
                               <p class="main-slider-three__founder-sub-title">Osiris Morales - Psicóloga</p>
