@@ -4,7 +4,7 @@
             <div class="main-menu-three__wrapper-inner">
                 <div class="main-menu-three__left">
                     <div class="main-menu-three__logo">
-                        <a href="index.html"><img src="{{ asset('/images/logos/psicocultivate.svg') }}" alt=""></a>
+                        <a href="index.html"><img src="{{ asset('/images/logos/logo_black.svg') }}" alt=""></a>
                     </div>
                     <div class="main-menu-three__main-menu-box">
                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
@@ -133,7 +133,7 @@
                             </h5>
                         </div>
                     </div>
-                    <div class="main-menu-three__search-cart-box">
+                    <!--div class="main-menu-three__search-cart-box">
                         <div class="main-menu-three__search-box">
                             <a href="#"
                                 class="main-menu-three__search search-toggler icon-magnifying-glass"></a>
@@ -141,7 +141,7 @@
                         <div class="main-menu-three__cart-box">
                             <a href="cart.html" class="main-menu-three__cart icon-shopping-cart"></a>
                         </div>
-                    </div>
+                    </div-->
                 </div>
             </div>
         </div>

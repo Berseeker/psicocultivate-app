@@ -908,7 +908,7 @@ ul {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: var(--delogis-gray);
+  color: black; /* var(--delogis-gray) */
   position: relative;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
@@ -1913,7 +1913,7 @@ ul {
 # Navigations Three
 --------------------------------------------------------------*/
 .main-header-three {
-  background: transparent;
+  background: rgba(85, 164, 49, 0.5);
   position: absolute;
   left: 0px;
   top: 0px;
@@ -1996,7 +1996,7 @@ ul {
   font-size: 13px;
   line-height: 13px;
   margin-bottom: 4px;
-  color: var(--delogis-gray);
+  color: black; /* var(--delogis-gray) */
 }
 
 .main-menu-three__call-number {
