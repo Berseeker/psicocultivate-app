@@ -12,7 +12,7 @@
               <div class="main-slider-three__bg"
                   style="background-image: url(/images/backgrounds/main-slider-three-bg.jpg);"></div>
               <div class="main-slider-three__shape-3 img-bounce">
-                  <img src="{{ asset('/images/shapes/ramas_2.png') }}" alt="">
+                  <img src="{{ asset('/images/shapes/ramas_green.svg') }}" alt="">
               </div>
               <div class="main-slider-three__img">
                   <img src="{{ asset('/images/sliders/slide.png') }}" alt=""> <!-- imagen principal -->
