@@ -36,8 +36,8 @@
                       <div class="main-slider-three__btn-founder-box">
                           <a href="make-appointment.html" class="main-slider-two__btn-one thm-btn">Haz un cita</a>
                           <div class="main-slider-three__founder-box">
-                              <h4 class="main-slider-three__founder-name">Osiris</h4>
-                              <p class="main-slider-three__founder-sub-title">Osiris Morales - Psicóloga - Terápia Online</p>
+                              <h4 class="main-slider-three__founder-name">Osiris Morales</h4>
+                              <p class="main-slider-three__founder-sub-title">Psicóloga - Terápia Online</p>
                           </div>
                       </div>
                   </div>
