@@ -24,4 +24,4 @@
 <script src="{{ asset('vendors/web/circleType/jquery.lettering.min.js') }}"></script>
 
 <!-- template js -->
-<script src="{{ asset('js/web/delogis.js') }}"></script>
+<script src="{{ asset('js/web/delogis_custom.js') }}"></script>

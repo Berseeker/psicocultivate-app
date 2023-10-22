@@ -4,7 +4,10 @@
             <div class="main-menu-three__wrapper-inner">
                 <div class="main-menu-three__left">
                     <div class="main-menu-three__logo">
-                        <a href="index.html"><img src="{{ asset('/images/logos/logo_black.svg') }}" alt=""></a>
+                        <a href="index.html">
+                          <img id="logo_main_top" src="images/logos/black.svg" alt="" style="display: none;">
+                          <img id="logo_main_scroll" src="images/logos/psicocultivate.svg" alt="">
+                        </a>
                     </div>
                     <div class="main-menu-three__main-menu-box">
                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>

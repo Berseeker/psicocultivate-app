@@ -468,6 +468,7 @@
     let mobileNavContainer = document.querySelector(".mobile-nav__container");
     mobileNavContainer.innerHTML = navContent;
   }
+
   if ($(".sticky-header__content").length) {
     let navContent = document.querySelector(".main-menu").innerHTML;
     let mobileNavContainer = document.querySelector(".sticky-header__content");
@@ -1043,15 +1044,25 @@
   });
 
   // window scroll event
+  $("#logo_main_scroll").css("display", 'none');
+  $("#logo_main_top").css("display", 'initial');
 
   $(window).on("scroll", function () {
+    var initialSrc = "/images/logos/black.svg";
+    var scrollSrc = "/images/logos/psicocultivate.svg";
     if ($(".stricked-menu").length) {
       var headerScrollPos = 130;
       var stricky = $(".stricked-menu");
       if ($(window).scrollTop() > headerScrollPos) {
         stricky.addClass("stricky-fixed");
+        $("#logo_main_scroll").css("display", 'initial');
+        $("#logo_main_top").css("display", 'none');
+        console.log('scroll');
       } else if ($(this).scrollTop() <= headerScrollPos) {
         stricky.removeClass("stricky-fixed");
+        $("#logo_main_scroll").css("display", 'none');
+        $("#logo_main_top").css("display", 'initial');
+        console.log('top');
       }
     }
     if ($(".scroll-to-top").length) {
