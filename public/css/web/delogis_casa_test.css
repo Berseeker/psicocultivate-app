@@ -2686,7 +2686,7 @@ ul {
 .main-slider-three__img {
   position: absolute;
   bottom: -1px;
-  right: 290px;
+  right: 200px;/* 290 */
   mix-blend-mode: darken;
   transform: translateX(500px);
   opacity: 0;

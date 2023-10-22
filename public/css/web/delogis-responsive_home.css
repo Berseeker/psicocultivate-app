@@ -1966,22 +1966,30 @@
 
 @media only screen and (min-width: 1400px) and (max-width: 1700px) {
     .main-slider-three__img {
-        right: 150px;
+        right: 100px;/* 150 */
     }
 
     .main-slider-three__img img {
         width: 85% !important;
+    }
+
+    .main-slider-three__content {
+      padding-left: 50px;
     }
 }
 
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
     .main-slider-three__img {
-        right: 80px;
+        right: 10px; /* 80 */
     }
 
     .main-slider-three__img img {
         width: 85% !important;
+    }
+
+    .main-slider-three__content {
+      padding-left: 80px;
     }
 }
 
