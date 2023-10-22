@@ -1966,7 +1966,7 @@
 
 @media only screen and (min-width: 1400px) and (max-width: 1700px) {
     .main-slider-three__img {
-        right: 100px;/* 150 */
+        right: 70px;/* 150 */
     }
 
     .main-slider-three__img img {
@@ -1974,7 +1974,7 @@
     }
 
     .main-slider-three__content {
-      padding-left: 50px;
+      padding-left: 100px;
     }
 }
 
@@ -1989,7 +1989,7 @@
     }
 
     .main-slider-three__content {
-      padding-left: 80px;
+      padding-left: 40px;
     }
 }
 
