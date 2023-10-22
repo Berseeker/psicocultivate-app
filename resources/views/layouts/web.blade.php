@@ -22,6 +22,8 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&display=swap" rel="stylesheet">
 
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="{{ asset('vendors/web/bootstrap/css/bootstrap.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('vendors/web/animate/animate.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('vendors/web/animate/custom-animate.css') }}" />
@@ -44,7 +46,7 @@
     <link rel="stylesheet" href="{{ asset('vendors/web/jquery-ui/jquery-ui.css') }}" />
     <link rel="stylesheet" href="{{ asset('vendors/web/timepicker/timePicker.css') }}" />
     <!-- template styles -->
-    <link rel="stylesheet" href="{{ asset('css/web/delogis_casa_test.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/web/delogis_casa_.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/web/delogis-responsive_home.css') }}" />
 </head>
 
