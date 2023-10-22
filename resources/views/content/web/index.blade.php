@@ -17,12 +17,12 @@
               <div class="main-slider-three__img">
                   <img src="{{ asset('/images/sliders/slide.png') }}" alt=""> <!-- imagen principal -->
               </div>
-              <div class="main-slider-three__star-one zoominout">
+              <!--div class="main-slider-three__star-one zoominout">
                   <img src="{{ asset('/images/shapes/main-slider-three-star-1.png') }}" alt="">
               </div>
               <div class="main-slider-three__star-two img-bounce">
                   <img src="{{ asset('/images/shapes/main-slider-three-star-2.png') }}" alt="">
-              </div>
+              </div-->
               <div class="container">
                   <div class="main-slider-three__content">
                       <div class="main-slider-three__sub-title-box">
