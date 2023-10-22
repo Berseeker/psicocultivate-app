@@ -26,10 +26,10 @@
               <div class="container">
                   <div class="main-slider-three__content">
                       <div class="main-slider-three__sub-title-box">
-                          <div class="main-slider-three__shape-1"
+                          <!--div class="main-slider-three__shape-1"
                               style="background-image: url(images/shapes/main-slider-three-shape-1.png);">
                           </div>
-                          <p class="main-slider-three__sub-title">Terapia Online</p>
+                          <p class="main-slider-three__sub-title">Terapia Online</p-->
                       </div>
                       <h2 class="main-slider-three__title">Un espacio seguro,<br>
                           es un espacio de <br> <span>cambios</span></h2>
@@ -37,7 +37,7 @@
                           <a href="make-appointment.html" class="main-slider-two__btn-one thm-btn">Haz un cita</a>
                           <div class="main-slider-three__founder-box">
                               <h4 class="main-slider-three__founder-name">Osiris</h4>
-                              <p class="main-slider-three__founder-sub-title">Osiris Morales - Psicóloga</p>
+                              <p class="main-slider-three__founder-sub-title">Osiris Morales - Psicóloga - Terápia Online</p>
                           </div>
                       </div>
                   </div>
