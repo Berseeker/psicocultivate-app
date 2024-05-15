@@ -2017,7 +2017,7 @@ ul {
 }
 
 .main-menu-three__call-icon:hover {
-  background-color: var(--delogis-base);
+  background-color: #d29b24;
   color: var(--delogis-white);
 }
 
@@ -2067,7 +2067,7 @@ ul {
 }
 
 .main-menu-three__call-number a:hover {
-  color: var(--delogis-base);
+  color: #d29b24;
 }
 
 .main-menu-three__search-cart-box {
