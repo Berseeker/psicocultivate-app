@@ -131,7 +131,7 @@
                         </div>
                         <div class="main-menu-three__call-content">
                             <p class="main-menu-three__call-sub-title">Contácto</p>
-                            <h5 class="main-menu-three__call-number"><a href="tel:9288009850">+52 (998) -
+                            <h5 class="main-menu-three__call-number"><a href="https://api.whatsapp.com/send?phone=529982901735" target="_blank">+52 (998) -
                                     290 1735</a>
                             </h5>
                         </div>
