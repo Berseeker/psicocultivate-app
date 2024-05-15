@@ -252,7 +252,7 @@ ul {
   vertical-align: middle;
   -webkit-appearance: none;
   outline: none !important;
-  background-color: #55a431; /* var(--delogis-base) */
+  background-color: #70ab3d; /* var(--delogis-base) */
   color: var(--delogis-white);
   font-size: 14px;
   font-weight: 700;
@@ -270,7 +270,7 @@ ul {
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: #5b7901; /* var(--delogis-black) */
+  background-color: #4f6635; /* var(--delogis-black) */
   transform: scalex(0.0);
   transform-style: preserve-3d;
   transition: transform 0.4s ease-in-out;
