@@ -1,0 +1,2113 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20201107 at Tue Jan 22 12:08:22 2019
+ By 
+Copyright (c) 2018 by Elena Genova. All rights reserved.
+</metadata>
+<defs>
+<font id="BDScript-Regular" horiz-adv-x="0" >
+  <font-face 
+    font-family="BDScript-Regular"
+    font-weight="400"
+    font-style="italic"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="0 0 5 0 0 0 0 0 0 0"
+    ascent="554"
+    descent="-446"
+    x-height="111"
+    cap-height="337"
+    bbox="-494 -409 551 513"
+    underline-thickness="50"
+    underline-position="-100"
+    slope="-40"
+    unicode-range="U+0020-201D"
+  />
+<missing-glyph horiz-adv-x="111" 
+ />
+    <glyph glyph-name="b_r" unicode="br" 
+ />
+    <glyph glyph-name="f_f" unicode="ff" 
+ />
+    <glyph glyph-name="o_r" unicode="or" 
+ />
+    <glyph glyph-name="s_r" unicode="sr" 
+ />
+    <glyph glyph-name="s_s" unicode="ss" 
+ />
+    <glyph glyph-name=".notdef" horiz-adv-x="111" 
+ />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="333" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="221" 
+ />
+    <glyph glyph-name="quotesingle" unicode="'" horiz-adv-x="77" 
+d="M133 168q-6 0 -6 6q0 3 1 4q10 10 21 24q6 6 18 25q2 2 5 2q5 0 5 -5q0 -2 -1 -3q-8 -13 -18 -27q-2 -3 -6.5 -8t-8 -9t-6.5 -7q-2 -2 -4 -2z" />
+    <glyph glyph-name="parenleft" unicode="(" horiz-adv-x="172" 
+d="M44 -67q-2 0 -3 1q-30 21 -19 74q16 80 116.5 187.5t209.5 137.5q0 1 2 1q5 0 5 -6q0 -4 -4 -6q-72 -20 -144.5 -79t-118 -124t-55.5 -113q-9 -46 15 -62q2 -4 2 -5q0 -6 -6 -6z" />
+    <glyph glyph-name="parenright" unicode=")" horiz-adv-x="181" 
+d="M-51 -67q-6 0 -6 6q0 5 4 5q107 30 205 135t113 182q9 46 -14 62q-3 1 -3 5q0 6 6 6q1 0 3 -2q31 -21 20 -74q-17 -79 -117.5 -186.5t-209.5 -138.5h-1z" />
+    <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="137" 
+d="M173 154q-5 0 -6 4t-3 17q0 4 -4 2q-5 -4 -11 -10q-2 -2 -4 -2q-6 0 -6 6q0 2 1 3q7 7 13 11q3 3 -1 5q-2 0 -5.5 0.5t-5.5 1.5q-5 0 -5 5q0 6 5 6h1q6 0 18 -3q3 -2 3 2l3 19q2 4 6 4q5 0 5 -6v-2q-2 -6 -2 -10q0 -5 4 -3q8 5 19 10q1 1 2 1q6 0 6 -6q0 -5 -4 -5
+q-4 -2 -17 -9q-3 -3 1 -5q8 -3 13 -8q2 -2 2 -4q0 -6 -6 -6q-1 0 -3 2q-7 4 -13 7q-4 2 -4 -3q2 -12 3 -16v-3q0 -5 -5 -5z" />
+    <glyph glyph-name="plus" unicode="+" horiz-adv-x="184" 
+d="M102 53q-5 0 -5 6q0 2 1 3l31 42q-36 0 -51 -2h-1q-5 0 -5 6t5 6q37 2 61 1l37 49q2 2 5 2q5 0 5 -6q0 -3 -1 -3l-32 -42q12 0 18 -1h30q6 0 6 -6t-6 -6q-4 0 -14.5 0.5t-16.5 0.5q-16 0 -25 1l-37 -49q-2 -2 -5 -2z" />
+    <glyph glyph-name="comma" unicode="," horiz-adv-x="44" 
+d="M-19 12q-5 -20 -19 -23q-7 -3 -7 -6q0 -2 3 -2q14 0 26.5 13t12.5 22q0 4 -6 4q-8 0 -10 -8z" />
+    <glyph glyph-name="hyphen" unicode="-" horiz-adv-x="229" 
+d="M54 66q-5 0 -5 6q0 5 5 5q17 3 77.5 4t74.5 0q5 0 5 -5q0 -6 -6 -6q-12 1 -72 -0.5t-78 -3.5h-1z" />
+    <glyph glyph-name="period" unicode="." horiz-adv-x="131" 
+d="M10 4q-7 0 -4 8q5 8 14 8q8 0 3 -8q-3 -8 -13 -8z" />
+    <glyph glyph-name="zero" unicode="0" horiz-adv-x="249" 
+d="M77 -20q-18 0 -26.5 15t-3.5 39q9 54 62.5 121t114.5 110.5t93 40.5q6 -2 6 -6q0 -6 -6 -6h-1q-30 3 -88 -39t-109.5 -106.5t-60.5 -116.5q-6 -40 19 -40q49 0 116 57.5t114.5 126.5t54.5 108q6 35 -29 35q-5 0 -5 6t5 6q49 0 40 -49q-7 -40 -56.5 -111.5t-119 -131
+t-120.5 -59.5z" />
+    <glyph glyph-name="one" unicode="1" horiz-adv-x="188" 
+d="M-27 -20q-5 0 -5 6q0 4 4 6q15 3 83 12q55 89 221 262q-88 -43 -131 -48h-1q-6 0 -6 5q0 6 5 6q51 5 159 63q29 25 36 25q5 0 6.5 -3.5t-2.5 -7.5q-4 -6 -32 -22l-6 -6q-27 -26 -113.5 -123t-121.5 -150q41 5 64 2q5 0 5 -5q0 -6 -5 -6h-1q-21 2 -70 -3q-4 -6 -5 -9
+t-5 -3q-6 0 -6 5q0 2 1 3l1 2q-41 -5 -74 -11h-1z" />
+    <glyph glyph-name="three" unicode="3" horiz-adv-x="244" 
+d="M73 -18q-25 0 -38 12t-9 32q4 25 28.5 52.5t57.5 46.5q1 1 3 1q6 0 6 -6q0 -4 -3 -5q-31 -17 -53.5 -43t-27.5 -48q-2 -15 7 -23t29 -8q71 0 134 51t72 99q8 46 -46 49q-45 -16 -66 -16q-16 0 -8 9q18 18 68 18h5q42 15 74.5 36.5t35.5 41.5q2 11 -13 18t-44 7
+q-31 0 -55.5 -9.5t-26.5 -21.5q-1 -8 5 -14q2 -1 2 -4q0 -6 -5 -6q-2 0 -4 2q-12 9 -10 24q3 17 30 28.5t64 11.5q35 0 53.5 -10t14.5 -28q-7 -40 -99 -79q44 -11 36 -59q-9 -51 -76 -105t-141 -54z" />
+    <glyph glyph-name="four" unicode="4" horiz-adv-x="237" 
+d="M114 -25q-6 0 -6 6q0 2 1 3q38 56 109 151q-86 -2 -151 -21h-2q-5 0 -5 6q0 3 2 5q47 34 146 99t159 97h3q6 0 6 -5q0 -2 -2 -4q-73 -87 -132 -165q28 0 45 -3q5 0 5 -5q0 -6 -5 -6h-1q-12 2 -47 2h-6q-48 -62 -115 -157q-2 -3 -4 -3zM93 133q66 12 134 14l118 148
+q-95 -55 -252 -162z" />
+    <glyph glyph-name="five" unicode="5" horiz-adv-x="250" 
+d="M94 -17q-26 0 -39 12t-9 34q6 36 48 73q1 1 4 1q6 0 6 -5q0 -3 -2 -5q-40 -36 -45 -66q-3 -16 6.5 -24.5t30.5 -8.5q64 0 121 67.5t67 123.5q4 25 -4 35t-31 10q-46 0 -94 -28q-27 -20 -31 -20q-3 11 1 14q8 6 24 16q62 49 98 83h-1q-6 0 -6 6t6 6h13l10 10q2 2 4 2
+q6 0 6 -6q0 -2 -2 -4l-1 -1q84 4 119 14q0 1 2 1q5 0 5 -6q0 -4 -4 -6q-37 -11 -134 -15q-37 -35 -74 -65q33 11 59 11q56 0 46 -59q-10 -58 -70.5 -129t-128.5 -71z" />
+    <glyph glyph-name="six" unicode="6" horiz-adv-x="234" 
+d="M93 -22q-23 0 -34 15t-7 40q17 92 122.5 193.5t166.5 101.5q23 0 35 -9q2 -2 2 -5q0 -5 -6 -5q-3 0 -4 1q-8 7 -27 7q-58 0 -159.5 -98.5t-117.5 -187.5q-8 -41 29 -41q47 0 93.5 56t53.5 97q7 37 -28 37q-27 0 -57 -23t-52 -60q-1 -3 -5 -3q-6 0 -6 5l1 3q23 40 56 65
+t63 25q48 0 39 -51q-7 -43 -57 -103t-101 -60z" />
+    <glyph glyph-name="eight" unicode="8" horiz-adv-x="221" 
+d="M107 -17q-18 0 -27.5 9.5t-6.5 25.5q4 23 78 87q-2 80 5 126q7 42 50 71t97 29q5 0 5 -6q0 -5 -5 -5q-49 0 -88.5 -26.5t-46.5 -64.5q-7 -41 -5 -115q10 9 32 27q36 29 53.5 44t42.5 38.5t37.5 39.5t14.5 28q3 19 -18 18q-16 0 -46 -12q0 -1 -2 -1q-6 0 -6 6q0 5 4 5
+q41 17 62 12t17 -30q-3 -17 -29.5 -46.5t-51.5 -51t-71 -59.5q-4 -4 -12.5 -10.5t-15 -12t-11.5 -10.5v-5q2 -53 -1 -65q-8 -46 -55 -46zM107 -5q38 0 44 36q1 5 1 59q-65 -55 -68 -74q-2 -10 4 -15.5t19 -5.5z" />
+    <glyph glyph-name="A" unicode="A" horiz-adv-x="470" 
+d="M260 -43q-4 0 -5 3q-13 23 80 144q-120 3 -194 -1q-84 -64 -131 -107q-2 -2 -4 -2q-6 0 -6 6q0 2 2 4q51 46 118 97q-77 -5 -125 -16h-1q-6 0 -6 6q0 4 5 6q61 13 144 17q117 89 225.5 157t142.5 68q18 0 11 -18q-5 -14 -78 -103l-80 -103q16 -1 155 -8q6 -2 6 -6
+q0 -6 -6 -6q-103 7 -164 8q-92 -121 -84 -137q1 -1 1 -3q0 -6 -6 -6zM157 115q77 3 186 0l86 110q73 91 76 100q1 2 1 3h-1q-31 0 -133 -64t-215 -149z" />
+    <glyph glyph-name="C" unicode="C" horiz-adv-x="331" 
+d="M37 -28q-28 0 -44 20t-11 49q7 37 40.5 87.5t80 97.5t105.5 79.5t109 32.5q30 0 45.5 -14t11.5 -36q-6 -38 -45 -78t-88 -68q-1 -1 -3 -1q-5 0 -5 6q0 3 3 5q51 29 86 67t41 71q3 17 -9 26.5t-37 9.5q-64 0 -139 -52.5t-125.5 -119.5t-58.5 -115q-4 -24 8 -40t35 -16
+q76 0 166 33.5t148 70.5h3q6 0 6 -5q0 -4 -3 -5q-58 -37 -150 -71t-170 -34z" />
+    <glyph glyph-name="I" unicode="I" horiz-adv-x="219" 
+d="M2 -60q-5 0 -5 6v2l3 6q1 4 -3 5q-28 -3 -57 -11h-1q-6 0 -6 6q0 5 4 5q29 9 70 13q3 0 5 3q34 56 108 154t140 171q6 6 -2 6h-16q-49 0 -61 -5q0 -1 -2 -1q-6 0 -6 6q0 4 3 5q16 7 66 7q9 0 29 -2q2 0 6 2q10 12 16 17q2 2 4 2q5 0 5 -6q0 -3 -1 -4l-9 -8q-4 -6 2 -6
+q27 -5 43 -10q5 -2 5 -5q0 -6 -6 -6h-2q-28 8 -52 11q-3 1 -6 -2q-63 -70 -136 -166t-112 -156q-2 -2 -1 -4t4 -1h13q41 0 54 -7q4 -2 4 -5q0 -6 -6 -6q-2 0 -3 1q-13 5 -49 5h-23q-3 -1 -6 -4l-3 -6l-4 -8q-2 -4 -6 -4z" />
+    <glyph glyph-name="P" unicode="P" horiz-adv-x="345" 
+d="M34 -69q-7 -2 -9 4q-1 3 1 14q7 34 68 118q-27 11 -38 29v3q0 5 5 5t6 -3q8 -15 34 -24q79 106 161 174q2 2 3 2q6 0 6 -6q0 -2 -2 -4q-84 -72 -156 -170q20 -5 41 -5q106 0 192 66.5t86 136.5q0 59 -81 59q-76 0 -163 -44.5t-131 -105.5q-1 -3 -5 -3q-5 0 -5 6q0 2 1 3
+q44 64 134 110t169 46q44 0 68.5 -18.5t24.5 -52.5q0 -74 -90.5 -144.5t-199.5 -70.5q-23 0 -49 7q-52 -70 -65 -105q3 -2 3 -6q-4 -18 -9 -21z" />
+    <glyph glyph-name="T" unicode="T" horiz-adv-x="267" 
+d="M35 -84q-3 -2 -6.5 -0.5t-3.5 5.5q-1 2 1 10q3 15 18.5 39.5t45.5 62.5t51.5 63t62.5 73q78 89 111 133q-126 -11 -276 -38h-1q-6 0 -6 6q0 5 5 5q159 29 287 40q7 9 9 14q2 2 5 2q6 0 6 -5q0 -3 -1 -3l-3 -7q55 5 102 5q63 0 85 -8t22 -30q0 -6 -6 -6t-6 6
+q0 16 -19 21.5t-76 5.5q-43 0 -112 -6q-28 -39 -117 -143q-149 -171 -171 -220q2 0 1 -6q-4 -16 -8 -19z" />
+    <glyph glyph-name="U" unicode="U" horiz-adv-x="490" 
+d="M20 -56q-32 0 -32 31q0 25 27 69.5t53 77t74 89.5q83 98 92 122q1 4 5 4q6 0 6 -6v-2q-10 -24 -94 -125q-47 -55 -73 -88t-52 -75.5t-26 -65.5q0 -19 20 -19q42 0 139 77.5t192 172.5q1 1 1 2q60 99 84 99q5 0 7.5 -3.5t0.5 -8.5q-8 -19 -82 -93q-1 -1 -1 -2
+q-81 -134 -81 -175q0 -31 31 -31q58 0 198 92q1 1 3 1q6 0 6 -5q0 -3 -2 -5q-143 -94 -205 -94q-43 0 -43 42q0 30 55 132q3 4 1 5t-5 -2q-225 -216 -299 -216zM391 247q19 20 31 33.5t9 13.5q-7 0 -40 -47z" />
+    <glyph glyph-name="W" unicode="W" horiz-adv-x="502" 
+d="M47 -32q-13 0 -21.5 9t-8.5 23q0 44 51 125.5t119 146.5t109 65q6 0 6 -6q0 -5 -6 -5q-38 0 -103.5 -63t-115 -142t-49.5 -121q0 -21 19 -21q36 0 108 46.5t149 112.5q2 0 2 2q32 65 74 115t69 50q9 0 9 -9q0 -18 -40 -63t-101 -98q0 -1 -0.5 -1t-0.5 -1
+q-35 -70 -35 -110q0 -18 19 -18q56 0 143 99t96 143q2 5 6 5q6 0 6 -6v-1q-10 -47 -100.5 -149t-150.5 -102q-30 0 -30 29q0 33 20 82q2 5 0 5.5t-5 -2.5q-72 -60 -137.5 -100t-100.5 -40zM328 159q45 40 81.5 80.5t36.5 50.5q0 2 -2 2q-16 0 -52.5 -42t-63.5 -91z" />
+    <glyph glyph-name="bracketleft" unicode="[" horiz-adv-x="184" 
+d="M1 -67q-6 0 -6 6q0 1 1 3h-2q-6 0 -6 5q0 6 6 6h9q61 93 147 201.5t138 160.5q11 11 39.5 14.5t43.5 0.5q4 -2 4 -6q0 -6 -6 -6h-1q-10 4 -36 1.5t-36 -12.5q-52 -52 -135.5 -157.5t-143.5 -196.5q24 -1 61 1h1q5 0 5 -5q0 -6 -5 -6q-20 -2 -70 -2l-3 -5q-2 -3 -5 -3z
+" />
+    <glyph glyph-name="backslash" unicode="\" horiz-adv-x="133" 
+d="M43 -91q-5 0 -5 6q0 86 -2 220q-2 146 -2 209q0 6 6 6t6 -6q-1 -66 1 -209q2 -132 2 -220q0 -6 -6 -6z" />
+    <glyph glyph-name="bracketright" unicode="]" horiz-adv-x="184" 
+d="M50 -67q-6 0 -6 6q0 1 0.5 1t0.5 1q-28 0 -58 2q-5 0 -5 6q0 5 6 5q38 -2 65 -1l99 132l168 222q10 12 -15 15q-14 2 -28 0l-1 -1q-6 0 -6 6q0 4 5 6q45 7 57 -12q6 -10 -3 -21q-34 -43 -167 -222l-94 -125h2q6 0 6 -6q0 -5 -6 -5q-3 -1 -11 -1l-4 -5q-1 -3 -5 -3z" />
+    <glyph glyph-name="underscore" unicode="_" horiz-adv-x="184" 
+d="M-61 -23q-5 0 -5 6q0 5 5 5h187q5 0 5 -5q0 -6 -5 -6h-187z" />
+    <glyph glyph-name="grave" unicode="`" horiz-adv-x="80" 
+d="M138 133q-2 0 -3 1q-21 8 -34 29q-2 2 -2 3q0 6 6 6q3 0 5 -3q10 -15 30 -25q4 -2 4 -5q0 -6 -6 -6z" />
+    <glyph glyph-name="a" unicode="a" horiz-adv-x="292" 
+d="M135 -1q-36 0 -36 30q0 22 25 60q2 2 1 3t-3 -1q-7 -4 -20 -14q-106 -76 -132 -76q-18 0 -18 16q0 24 48.5 57t75.5 33q20 0 28 -15q32 24 38 24q7 0 7 -7q0 -4 -11 -20q-28 -40 -28 -60q0 -18 25 -18t80.5 22.5t95.5 52.5q1 1 4 1q5 0 5 -5q0 -3 -2 -5
+q-41 -30 -98.5 -54t-84.5 -24zM-30 13q27 0 124 73q-5 10 -18 10q-26 0 -69.5 -30.5t-43.5 -48.5q0 -4 7 -4z" />
+    <glyph glyph-name="b" unicode="b" horiz-adv-x="267" 
+d="M-27 -16q-8 0 -8 8q0 21 54 95l1 1q88 121 228 270.5t170 149.5q17 0 17 -17q0 -26 -57 -97t-155 -161.5t-196 -153.5q-28 -38 -43 -65q-5 -10 2 -4q2 1 4 3q20 19 52 42q66 49 91 49q17 0 17 -18q0 -22 -21 -46q106 15 158 47h3q5 0 5 -5q0 -3 -2 -5q-55 -34 -176 -50
+q-36 -34 -64 -34q-21 0 -21 18q0 10 15.5 15t58.5 11h5q28 28 28 49q0 6 -8 6q-20 0 -83 -46q-26 -19 -59 -50q-14 -12 -16 -12zM48 107q137 95 256.5 221t119.5 163q0 5 -6 5q-25 0 -150.5 -134t-219.5 -255zM53 5q21 0 43 19q-52 -8 -52 -13q0 -6 9 -6z" />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="218" 
+d="M27 -5q-42 0 -42 30q0 6 1 10q5 25 32.5 50.5t49.5 25.5q18 0 18 -15q0 -21 -22 -34h-1q-1 -1 -2 -1q-6 0 -6 6q0 2 3 5q15 10 17 22q0 5 -7 5q-19 0 -42.5 -22.5t-28.5 -43.5v-8q0 -18 30 -18q39 0 98 22t112 57q1 1 3 1q6 0 6 -5q0 -4 -3 -5q-54 -36 -114.5 -59
+t-101.5 -23z" />
+    <glyph glyph-name="d" unicode="d" horiz-adv-x="271" 
+d="M101 -1q-36 0 -36 30q0 13 22 49q2 3 1 4t-4 -1q-87 -80 -106 -80q-13 0 -13 14q0 28 40.5 62t74.5 34q11 0 16 -4q8 8 28 26q82 115 200.5 247.5t144.5 132.5q14 0 14 -13q0 -19 -118 -144t-236 -234l-19 -28q3 -6 3 -15q-2 -5 -6 -5q-6 0 -6 6v1q-25 -42 -25 -52
+q0 -18 25 -18q29 0 85.5 21.5t103.5 54.5l1 1h2q6 0 6 -6q0 -4 -3 -5q-48 -33 -106 -55.5t-89 -22.5zM169 176q112 108 207.5 209t95.5 115q0 2 -3 2q-19 0 -117 -107t-183 -219zM-20 13q14 0 107 86h-7q-28 0 -65.5 -30t-37.5 -53q0 -3 3 -3z" />
+    <glyph glyph-name="e" unicode="e" horiz-adv-x="205" 
+d="M33 -3q-47 0 -47 31q0 25 29 54t54 29q18 0 18 -16q0 -10 -13.5 -19t-27.5 -9q-17 0 -25 4q-23 -25 -23 -43q0 -19 35 -19q27 0 86 21.5t106 55.5q1 1 3 1q6 0 6 -5q0 -4 -3 -5q-48 -35 -109 -57.5t-89 -22.5zM46 78q8 0 19 6t11 11q0 4 -7 4q-17 0 -39 -19q8 -2 16 -2z
+" />
+    <glyph glyph-name="f" unicode="f" horiz-adv-x="171" 
+d="M-233 -296q-8 0 -6 9q0 1 1 1l3 6q69 120 209 305q-39 5 -78 19q-4 0 -4 5q0 6 6 6q1 0 2 -1q44 -15 82 -18q17 25 38 50q0 1 1 1q96 124 170.5 205t98.5 81q16 0 16 -14q0 -30 -96.5 -131.5t-181.5 -149.5l-33 -44h13q107 0 181 52q1 1 4 1q6 0 6 -5q0 -4 -3 -5
+q-78 -55 -188 -55q-5 0 -21 2q-130 -174 -200 -289q3 -2 0 -7q-13 -24 -20 -24zM47 103q81 52 164 142t83 114q0 2 -4 2q-40 0 -243 -258z" />
+    <glyph glyph-name="g" unicode="g" horiz-adv-x="236" 
+d="M-382 -409q-24 0 -24 23q0 21 78 80.5t260 178.5q66 71 154 180q5 8 2.5 8t-13.5 -7q-87 -53 -110 -53q-17 0 -17 17q0 25 56.5 60t96.5 35q25 0 25 -15q0 -11 -31 -52q-61 -77 -124 -148l96 63q160 103 186 123q1 1 4 1q5 0 5 -5q0 -4 -2 -5q-35 -28 -187 -124l-133 -87
+l-132 -137q-135 -136 -190 -136zM-35 12q17 0 104 52q9 5 17 10.5t14.5 9.5t9.5 6l3 3q1 2 1 5t-13 3q-33 0 -87 -32t-54 -51q0 -6 5 -6zM-382 -397q50 0 182 132l99 103q-294 -194 -294 -224q0 -11 13 -11z" />
+    <glyph glyph-name="h" unicode="h" horiz-adv-x="316" 
+d="M-61 -60q-8 0 -8 8q0 29 111.5 168t234 265.5t148.5 126.5q17 0 17 -17q0 -42 -133 -180.5t-282 -232.5q-48 -61 -72 -100q-5 -9 -4 -10q2 -2 11 8l47 45q88 83 118 83q14 0 14 -15q0 -10 -10 -34q-9 -27 -9 -31q0 -17 22 -17q31 0 89.5 25.5t102.5 54.5h3q6 0 6 -5
+q0 -4 -3 -5q-44 -29 -104.5 -55.5t-93.5 -26.5t-33 29q0 12 10 36q9 25 9 29t-3 4q-25 0 -110 -80l-47 -45q-26 -28 -31 -28zM50 106q140 95 260.5 221.5t120.5 163.5q0 5 -6 5q-23 0 -146 -130t-229 -260z" />
+    <glyph glyph-name="i" unicode="i" horiz-adv-x="175" 
+d="M72 129q-6 0 -6 5q0 3 1 4l4 4q3 4 9 13q2 2 5 2q5 0 5 -6q0 -3 -1 -4q-5 -5 -9 -12l-4 -4q-1 -2 -4 -2zM8 -6q-27 0 -27 26q0 28 61 91q1 1 4 1q6 0 6 -5q0 -2 -2 -4q-58 -60 -58 -83q0 -14 16 -14q22 0 83.5 27t102.5 54h3q6 0 6 -5q0 -3 -2 -5q-44 -28 -106.5 -55.5
+t-86.5 -27.5z" />
+    <glyph glyph-name="j" unicode="j" horiz-adv-x="148" 
+d="M70 140q-5 0 -5 6q0 3 1 4l5 5q4 4 5 6q1 1 5 1q5 0 5 -5q0 -3 -1 -4q-4 -4 -5 -6q-4 -4 -6 -5q-2 -2 -4 -2zM-470 -409q-24 0 -24 23q0 21 73.5 77.5t242.5 167.5l21 14q93 101 180 216q1 3 5 3q6 0 6 -6l-1 -4q-76 -100 -152 -184l104 67q154 99 180 119q1 1 3 1
+q6 0 6 -5q0 -3 -2 -5q-24 -19 -181 -120l-140 -91l-131 -137q-136 -136 -190 -136zM-470 -397q50 0 181 132l99 103q-293 -194 -293 -224q0 -11 13 -11z" />
+    <glyph glyph-name="k" unicode="k" horiz-adv-x="303" 
+d="M-109 -124q-8 0 -8 8q0 31 135 202h1q121 154 246 288t156 134q17 0 17 -17q0 -42 -133 -181t-281 -234q-70 -90 -102 -138q-13 -19 -14 -23t11 10q4 6 10 13q70 83 76 89q89 89 138 89q11 0 16.5 -5t4.5 -13q-3 -16 -31.5 -37t-77.5 -28q4 -15 17.5 -28t32.5 -13
+q62 0 218 95h3q6 0 6 -5q0 -2 -3 -5q-162 -97 -224 -97q-24 0 -40.5 17.5t-21.5 35.5q0 5 2 7q3 4 7 4q46 7 72 24.5t29 30.5q0 6 -10 6q-44 0 -130 -87q-15 -14 -91 -108q-28 -34 -31 -34zM47 105q139 96 259 222.5t120 163.5q0 5 -5 5q-27 0 -142 -122.5t-232 -268.5z" />
+    <glyph glyph-name="l" unicode="l" horiz-adv-x="218" 
+d="M6 -44q-33 0 -33 29q0 55 105.5 185t225.5 236.5t161 106.5q22 0 22 -20q0 -42 -167.5 -191.5t-299.5 -229.5q-36 -56 -36 -87q0 -10 4.5 -14t17.5 -4q24 0 91.5 35t138.5 84q1 1 4 1q5 0 5 -6q0 -2 -2 -4q-68 -47 -138.5 -84t-98.5 -37zM35 94q134 86 287.5 224.5
+t153.5 174.5q0 9 -11 9q-46 0 -196.5 -143t-233.5 -265z" />
+    <glyph glyph-name="m" unicode="m" horiz-adv-x="368" 
+d="M-28 -6q-9 2 -9 10q0 11 29 49t55 62q1 1 4 1q6 0 6 -6q0 -2 -2 -4q-47 -43 -73 -88q-2 -3 0 -4.5t4 0.5q4 3 10.5 8t16.5 13t19 15q101 83 125 83q21 0 21 -15q0 -13 -32 -62l-15 -24q-2 -3 -0.5 -5t4.5 0l22 14q51 29 64 29t13 -14q0 -3 -0.5 -8.5t-0.5 -7.5
+q-2 -12 -2 -19q0 -8 14 -8q35 0 142 73q1 1 3 1q6 0 6 -5q0 -4 -3 -5q-108 -75 -148 -75q-25 0 -25 19q0 14 1 20q2 12 2 15t-4 3q-9 0 -56 -28q-35 -22 -43 -22q-7 0 -7 9q0 10 24 44q29 46 29 55q0 5 -6 5q-4 0 -9 -1.5t-11 -4.5t-11.5 -6.5t-14 -9.5t-14 -10t-15.5 -11.5
+t-15 -11.5t-16 -13t-15 -12q-57 -48 -67 -48z" />
+    <glyph glyph-name="n" unicode="n" horiz-adv-x="295" 
+d="M-28 0q-10 0 -8 11q3 13 44.5 62.5t80.5 79.5q1 1 4 1q5 0 5 -5q0 -3 -2 -5q-56 -42 -105 -111q-2 -3 -1 -4.5t5 0.5q116 84 152 84q16 0 16 -14q0 -5 -7 -40q-6 -19 -6 -29q0 -8 11 -8q57 0 154 65h3q6 0 6 -5q0 -4 -3 -5q-101 -66 -160 -66q-23 0 -23 19q0 6 6 32
+q8 28 8 35q0 5 -5 5q-30 0 -150 -86q-24 -16 -25 -16z" />
+    <glyph glyph-name="o" unicode="o" horiz-adv-x="216" 
+d="M-6 -8q-19 0 -19 23q0 21 17 43.5t44 38.5q0 1 0.5 1t0.5 1q4 8 10 6q2 -1 4 0q7 4 14 5q0 1 2 1q5 0 5 -6q0 -5 -4 -5q-1 0 -2 -1l-2 -1q-3 -2 0 -3q41 -24 88.5 -26.5t83.5 18.5h3q6 0 6 -5q0 -3 -4 -5q-39 -23 -91.5 -20t-95.5 30q-3 3 -3 -2q5 -30 -14 -61.5
+t-43 -31.5zM-6 3q18 0 34 29.5t12 53.5q-24 -14 -39 -34t-15 -37q0 -12 8 -12z" />
+    <glyph glyph-name="p" unicode="p" horiz-adv-x="265" 
+d="M-359 -409q-14 0 28 56t122 148l293 371q2 2 4 2q6 0 6 -6q0 -3 -1 -3l-186 -234l55 60q50 55 97 88.5t75 33.5q16 0 16 -14q0 -23 -46 -58q123 13 181 51q0 1 3 1q6 0 6 -5q0 -2 -3 -5q-61 -41 -207 -56h-1q-32 -20 -55 -20q-14 0 -14 10q0 15 65 21q24 15 42 32.5
+t18 28.5q0 3 -5 3q-25 0 -70.5 -33t-93.5 -86l-172 -192l-55 -73q-85 -110 -95 -118q-4 -3 -7 -3z" />
+    <glyph glyph-name="q" unicode="q" horiz-adv-x="250" 
+d="M-232 -372q-13 0 -11 15q3 25 270 343q1 5 3 6l1 1q3 3 4 2q8 9 26 30t24 29l28 33l-13 -10q-8 -6 -24 -20q-69 -54 -91 -54q-18 0 -15 18q5 26 39.5 56t60.5 30q20 0 28 -16v-1q31 26 37 26q19 0 -20 -46q-4 -4 -11 -12t-10 -12l-44 -51q87 -3 219 91q1 1 4 1q5 0 5 -5
+q0 -3 -2 -5q-137 -100 -236 -94l-2 -2q0 -7 -4 -23q-15 -56 -123 -192q-111 -138 -143 -138zM-15 15q20 0 83 51q3 3 10.5 8.5t11.5 8.5q-2 2 -2 3q-5 10 -18 10q-22 0 -53 -27.5t-35 -49.5q-1 -4 3 -4zM-232 -360q11 0 49.5 38t84.5 95q107 136 121 188v3
+q-99 -118 -176.5 -215.5t-78.5 -107.5v-1z" />
+    <glyph glyph-name="r" unicode="r" horiz-adv-x="321" 
+d="M13 -108q-27 0 -27 26q0 16 18 41.5t34 42.5t51 52q82 80 82 100q0 9 -27 28q-60 -63 -118 -105q-1 -1 -4 -1q-5 0 -5 6q0 2 2 4q60 43 115 102q-28 19 -28 28q0 19 39 48.5t62 29.5q11 0 11 -12q0 -21 -66 -92q4 -4 11.5 -10.5t10.5 -9.5t6 -7.5t3 -8.5q0 -9 -6 -20
+t-22 -28.5t-25 -27t-33 -33.5q-33 -32 -49.5 -49.5t-33.5 -40.5t-17 -37t16 -14q39 0 137 57.5t190 124.5q1 1 3 1q6 0 6 -5q0 -3 -2 -5q-95 -69 -194.5 -127t-139.5 -58zM142 196q54 56 64 81q1 2 -0.5 3.5t-3.5 0.5q-21 -4 -52.5 -28t-31.5 -37q0 -4 24 -20z" />
+    <glyph glyph-name="s" unicode="s" horiz-adv-x="263" 
+d="M-4 -48q-17 0 -17 13q0 22 106 62q2 0 2 1q6 11 5 13t-34 -2q-24 -4 -34 -4q-24 0 -24 16q0 22 33.5 48t60.5 26q18 0 18 -15q0 -3 -1 -4q-5 -20 -21 -29q-1 -1 -3 -1q-6 0 -6 6q0 4 3 5q16 9 16 22q0 5 -6 5q-22 0 -52 -23t-30 -40q0 -5 12 -5q10 0 32 4t29 4
+q19 0 19 -14q-1 -1 -1 -2t-0.5 -1.5t-0.5 -1.5t0.5 -2t1.5 0l80 24q85 25 100 30h2q5 0 5 -5t-4 -6q-15 -5 -100 -30l-92 -28l-3 -2q-16 -24 -44.5 -44t-51.5 -20zM-4 -36q34 0 73 41q3 3 -2 3q-30 -12 -53.5 -25t-23.5 -17q0 -2 6 -2z" />
+    <glyph glyph-name="t" unicode="t" horiz-adv-x="149" 
+d="M-211 -254q-9 0 -6 10l1 1l3 6q133 210 343 456q-134 -6 -243 -21h-1q-6 0 -6 6q0 4 5 6q121 16 255 20l169 191q2 2 4 2q6 0 6 -6q0 -3 -1 -4l-162 -182q126 5 251 0q5 0 5 -6q0 -5 -6 -5q-135 5 -261 -1q-209 -244 -340 -450q3 -2 0 -7q-10 -16 -16 -16z" />
+    <glyph glyph-name="u" unicode="u" horiz-adv-x="275" 
+d="M118 0q-36 0 -36 30q0 15 14 38q6 8 5.5 8.5t-9.5 -5.5q-77 -63 -99 -63q-15 0 -15 15q0 27 58 79q2 2 4 2q6 0 6 -6q0 -2 -2 -4q-54 -48 -54 -70q0 -5 3 -5q16 0 92 61q46 37 51 37q16 0 -6 -26q-37 -42 -37 -61t25 -19q23 0 80 24.5t96 51.5q1 1 4 1q5 0 5 -6
+q0 -2 -2 -4q-39 -27 -98 -52.5t-85 -25.5z" />
+    <glyph glyph-name="v" unicode="v" horiz-adv-x="243" 
+d="M-59 -93q-17 0 -17 17q0 24 38 82.5t62 85.5q2 2 4 2q6 0 6 -6l-1 -4q-24 -26 -60.5 -82t-36.5 -78q0 -6 5 -6q16 0 58 40t77 86q-4 7 -4 19q0 20 13.5 39.5t28.5 19.5q13 0 13 -12q0 -17 -36 -67q11 -9 28 -9q62 0 143 53h3q6 0 6 -5q0 -4 -3 -5q-82 -54 -149 -54
+q-22 0 -35 11q-37 -48 -80.5 -87.5t-62.5 -39.5zM84 54q31 41 31 55q0 1 -2 1q-9 0 -19.5 -16t-10.5 -31q0 -1 0.5 -4t0.5 -5z" />
+    <glyph glyph-name="w" unicode="w" horiz-adv-x="345" 
+d="M-47 -49q-16 0 -16 14q0 24 40 75t72 70h1l2 1q6 0 6 -6q0 -3 -3 -5q-31 -20 -68.5 -67.5t-37.5 -66.5q0 -4 4 -4q20 0 66 34.5t68 59.5q3 4 8 1t2 -8q-18 -32 -18 -56q0 -8 5 -8q21 0 54 37.5t42 69.5q0 2 -1 3q-8 6 -8 16q0 11 11 11t11 -17v-4q0 -3 1 -3
+q46 -29 93 -29q48 0 78 18h3q6 0 6 -5q0 -2 -3 -5q-36 -20 -84 -20q-45 0 -95 28q-2 2 -3 -1q-12 -35 -46.5 -72.5t-58.5 -37.5q-17 0 -17 19q0 10 6 28q1 2 -0.5 3t-3.5 -1q-30 -27 -64.5 -49.5t-51.5 -22.5z" />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="252" 
+d="M-21 -34q-5 0 -5 6q0 2 1 3q20 28 47 57q1 1 1 4q-8 21 -6 55q0 6 6 6t6 -6q-1 -27 3 -45q0 -2 3 -1q48 48 84 70q1 1 3 1q6 0 6 -6q0 -4 -3 -5q-44 -29 -87 -73q-2 0 0 -3q12 -25 43 -25q37 0 79 19.5t108 60.5q1 1 4 1q5 0 5 -5q0 -4 -1 -5q-68 -42 -112.5 -62.5
+t-82.5 -20.5q-35 0 -51 28q-2 2 -3 0q-23 -23 -43 -52q-2 -2 -5 -2z" />
+    <glyph glyph-name="y" unicode="y" horiz-adv-x="278" 
+d="M-340 -409q-24 0 -24 23q0 33 67 89.5t213 146.5l155 93l7 4q27 35 55.5 82.5t33.5 69.5q0 6 -5 3q-7 -4 -48 -35q-101 -73 -123 -73q-18 0 -18 16q0 15 27.5 52t50.5 56h1l2 1q6 0 6 -6q0 -2 -2 -4q-23 -20 -48 -54t-25 -45q0 -4 6 -4q22 0 115 71q53 39 61 39
+q12 0 12 -13t-21.5 -54t-54.5 -87q105 61 193 123q1 1 3 1q6 0 6 -5q0 -3 -2 -5q-143 -94 -217 -138q-13 -18 -43 -52q-102 -112 -218.5 -203.5t-164.5 -91.5zM-340 -397q44 0 157.5 88t217.5 203l24 28l-137 -82q-274 -169 -274 -226q0 -11 12 -11z" />
+    <glyph glyph-name="z" unicode="z" horiz-adv-x="244" 
+d="M136 120q30 0 27 -19q-4 -18 -96 -63q-55 -28 -67 -37q-3 -1 -2 -3.5t4 -2.5q6 0 10 1q84 6 124 -17q3 -1 3 -5q0 -6 -6 -6q-2 0 -3 1q-36 20 -117 15q-4 0 -9.5 -0.5t-7.5 -0.5q-10 0 -14.5 4t-0.5 11q6 13 81 50q88 43 89 55q1 2 0 3t-4.5 1.5t-10.5 0.5
+q-70 0 -112 -33q-1 -1 -4 -1q-5 0 -5 6q0 3 2 4q25 19 61.5 27.5t57.5 8.5z" />
+    <glyph glyph-name="quoteright" unicode="&#x2019;" horiz-adv-x="89" 
+d="M166 210q-5 -20 -19 -23q-7 -3 -7 -6q0 -2 3 -2q14 0 26.5 13t12.5 22q0 4 -6 4q-8 0 -10 -8z" />
+    <glyph glyph-name="quotesinglbase" unicode="&#x201a;" horiz-adv-x="70" 
+d="M-19 12q-5 -20 -19 -23q-7 -3 -7 -6q0 -2 3 -2q14 0 26.5 13t12.5 22q0 4 -6 4q-8 0 -10 -8z" />
+    <glyph glyph-name="quotedblleft" unicode="&#x201c;" horiz-adv-x="103" 
+d="M147 187q5 20 19 23q7 3 7 6q0 2 -3 2q-14 0 -26.5 -13t-12.5 -22q0 -4 6 -4q8 0 10 8zM178 187q5 20 19 23q7 3 7 6q0 2 -3 2q-14 0 -26.5 -13t-12.5 -22q0 -4 6 -4q8 0 10 8z" />
+    <glyph glyph-name="quotedblright" unicode="&#x201d;" horiz-adv-x="119" 
+d="M166 210q-5 -20 -19 -23q-7 -3 -7 -6q0 -2 3 -2q14 0 26.5 13t12.5 22q0 4 -6 4q-8 0 -10 -8zM197 210q-5 -20 -19 -23q-7 -3 -7 -6q0 -2 3 -2q14 0 26.5 13t12.5 22q0 4 -6 4q-8 0 -10 -8z" />
+    <glyph glyph-name="exclam" 
+ />
+    <glyph glyph-name="quotedbl" 
+ />
+    <glyph glyph-name="numbersign" 
+ />
+    <glyph glyph-name="dollar" 
+ />
+    <glyph glyph-name="percent" 
+ />
+    <glyph glyph-name="ampersand" 
+ />
+    <glyph glyph-name="slash" 
+ />
+    <glyph glyph-name="two" 
+ />
+    <glyph glyph-name="seven" 
+ />
+    <glyph glyph-name="nine" 
+ />
+    <glyph glyph-name="colon" 
+ />
+    <glyph glyph-name="semicolon" 
+ />
+    <glyph glyph-name="equal" 
+ />
+    <glyph glyph-name="question" 
+ />
+    <glyph glyph-name="at" 
+ />
+    <glyph glyph-name="B" 
+ />
+    <glyph glyph-name="D" 
+ />
+    <glyph glyph-name="E" 
+ />
+    <glyph glyph-name="F" 
+ />
+    <glyph glyph-name="G" 
+ />
+    <glyph glyph-name="H" 
+ />
+    <glyph glyph-name="J" 
+ />
+    <glyph glyph-name="K" 
+ />
+    <glyph glyph-name="L" 
+ />
+    <glyph glyph-name="M" 
+ />
+    <glyph glyph-name="N" 
+ />
+    <glyph glyph-name="O" 
+ />
+    <glyph glyph-name="Q" 
+ />
+    <glyph glyph-name="R" 
+ />
+    <glyph glyph-name="S" 
+ />
+    <glyph glyph-name="V" 
+ />
+    <glyph glyph-name="X" 
+ />
+    <glyph glyph-name="Y" 
+ />
+    <glyph glyph-name="Z" 
+ />
+    <glyph glyph-name="braceleft" 
+ />
+    <glyph glyph-name="bar" 
+ />
+    <glyph glyph-name="braceright" 
+ />
+    <glyph glyph-name="exclamdown" 
+ />
+    <glyph glyph-name="cent" 
+ />
+    <glyph glyph-name="sterling" 
+ />
+    <glyph glyph-name="yen" 
+ />
+    <glyph glyph-name="brokenbar" 
+ />
+    <glyph glyph-name="section" 
+ />
+    <glyph glyph-name="dieresis" 
+ />
+    <glyph glyph-name="copyright" 
+ />
+    <glyph glyph-name="guillemotleft" 
+ />
+    <glyph glyph-name="registered" 
+ />
+    <glyph glyph-name="macron" 
+ />
+    <glyph glyph-name="degree" 
+ />
+    <glyph glyph-name="acute" 
+ />
+    <glyph glyph-name="paragraph" 
+ />
+    <glyph glyph-name="periodcentered" 
+ />
+    <glyph glyph-name="cedilla" 
+ />
+    <glyph glyph-name="guillemotright" 
+ />
+    <glyph glyph-name="questiondown" 
+ />
+    <glyph glyph-name="Agrave" 
+ />
+    <glyph glyph-name="Aacute" 
+ />
+    <glyph glyph-name="Acircumflex" 
+ />
+    <glyph glyph-name="Atilde" 
+ />
+    <glyph glyph-name="Adieresis" 
+ />
+    <glyph glyph-name="Aring" 
+ />
+    <glyph glyph-name="AE" 
+ />
+    <glyph glyph-name="Ccedilla" 
+ />
+    <glyph glyph-name="Egrave" 
+ />
+    <glyph glyph-name="Eacute" 
+ />
+    <glyph glyph-name="Ecircumflex" 
+ />
+    <glyph glyph-name="Edieresis" 
+ />
+    <glyph glyph-name="Igrave" 
+ />
+    <glyph glyph-name="Iacute" 
+ />
+    <glyph glyph-name="Icircumflex" 
+ />
+    <glyph glyph-name="Idieresis" 
+ />
+    <glyph glyph-name="Eth" 
+ />
+    <glyph glyph-name="Ntilde" 
+ />
+    <glyph glyph-name="Ograve" 
+ />
+    <glyph glyph-name="Oacute" 
+ />
+    <glyph glyph-name="Ocircumflex" 
+ />
+    <glyph glyph-name="Otilde" 
+ />
+    <glyph glyph-name="Odieresis" 
+ />
+    <glyph glyph-name="multiply" 
+ />
+    <glyph glyph-name="Oslash" 
+ />
+    <glyph glyph-name="Ugrave" 
+ />
+    <glyph glyph-name="Uacute" 
+ />
+    <glyph glyph-name="Ucircumflex" 
+ />
+    <glyph glyph-name="Udieresis" 
+ />
+    <glyph glyph-name="Yacute" 
+ />
+    <glyph glyph-name="Thorn" 
+ />
+    <glyph glyph-name="germandbls" 
+ />
+    <glyph glyph-name="agrave" 
+ />
+    <glyph glyph-name="aacute" 
+ />
+    <glyph glyph-name="acircumflex" 
+ />
+    <glyph glyph-name="atilde" 
+ />
+    <glyph glyph-name="adieresis" 
+ />
+    <glyph glyph-name="aring" 
+ />
+    <glyph glyph-name="ae" 
+ />
+    <glyph glyph-name="ccedilla" 
+ />
+    <glyph glyph-name="egrave" 
+ />
+    <glyph glyph-name="eacute" 
+ />
+    <glyph glyph-name="ecircumflex" 
+ />
+    <glyph glyph-name="edieresis" 
+ />
+    <glyph glyph-name="igrave" 
+ />
+    <glyph glyph-name="iacute" 
+ />
+    <glyph glyph-name="icircumflex" 
+ />
+    <glyph glyph-name="idieresis" 
+ />
+    <glyph glyph-name="eth" 
+ />
+    <glyph glyph-name="ntilde" 
+ />
+    <glyph glyph-name="ograve" 
+ />
+    <glyph glyph-name="oacute" 
+ />
+    <glyph glyph-name="ocircumflex" 
+ />
+    <glyph glyph-name="otilde" 
+ />
+    <glyph glyph-name="odieresis" 
+ />
+    <glyph glyph-name="oslash" 
+ />
+    <glyph glyph-name="ugrave" 
+ />
+    <glyph glyph-name="uacute" 
+ />
+    <glyph glyph-name="ucircumflex" 
+ />
+    <glyph glyph-name="udieresis" 
+ />
+    <glyph glyph-name="yacute" 
+ />
+    <glyph glyph-name="thorn" 
+ />
+    <glyph glyph-name="ydieresis" 
+ />
+    <glyph glyph-name="Amacron" 
+ />
+    <glyph glyph-name="amacron" 
+ />
+    <glyph glyph-name="Abreve" 
+ />
+    <glyph glyph-name="abreve" 
+ />
+    <glyph glyph-name="Aogonek" 
+ />
+    <glyph glyph-name="aogonek" 
+ />
+    <glyph glyph-name="Cacute" 
+ />
+    <glyph glyph-name="cacute" 
+ />
+    <glyph glyph-name="Cdotaccent" 
+ />
+    <glyph glyph-name="cdotaccent" 
+ />
+    <glyph glyph-name="Ccaron" 
+ />
+    <glyph glyph-name="ccaron" 
+ />
+    <glyph glyph-name="Dcaron" 
+ />
+    <glyph glyph-name="dcaron" 
+ />
+    <glyph glyph-name="Dcroat" 
+ />
+    <glyph glyph-name="dcroat" 
+ />
+    <glyph glyph-name="Emacron" 
+ />
+    <glyph glyph-name="emacron" 
+ />
+    <glyph glyph-name="Edotaccent" 
+ />
+    <glyph glyph-name="edotaccent" 
+ />
+    <glyph glyph-name="Eogonek" 
+ />
+    <glyph glyph-name="eogonek" 
+ />
+    <glyph glyph-name="Ecaron" 
+ />
+    <glyph glyph-name="ecaron" 
+ />
+    <glyph glyph-name="Gbreve" 
+ />
+    <glyph glyph-name="gbreve" 
+ />
+    <glyph glyph-name="Gdotaccent" 
+ />
+    <glyph glyph-name="gdotaccent" 
+ />
+    <glyph glyph-name="uni0122" 
+ />
+    <glyph glyph-name="uni0123" 
+ />
+    <glyph glyph-name="Hbar" 
+ />
+    <glyph glyph-name="hbar" 
+ />
+    <glyph glyph-name="Imacron" 
+ />
+    <glyph glyph-name="imacron" 
+ />
+    <glyph glyph-name="Iogonek" 
+ />
+    <glyph glyph-name="iogonek" 
+ />
+    <glyph glyph-name="Idotaccent" 
+ />
+    <glyph glyph-name="dotlessi" 
+ />
+    <glyph glyph-name="uni0136" 
+ />
+    <glyph glyph-name="uni0137" 
+ />
+    <glyph glyph-name="Lacute" 
+ />
+    <glyph glyph-name="lacute" 
+ />
+    <glyph glyph-name="uni013B" 
+ />
+    <glyph glyph-name="uni013C" 
+ />
+    <glyph glyph-name="Lcaron" 
+ />
+    <glyph glyph-name="lcaron" 
+ />
+    <glyph glyph-name="Lslash" 
+ />
+    <glyph glyph-name="lslash" 
+ />
+    <glyph glyph-name="Nacute" 
+ />
+    <glyph glyph-name="nacute" 
+ />
+    <glyph glyph-name="uni0145" 
+ />
+    <glyph glyph-name="uni0146" 
+ />
+    <glyph glyph-name="Ncaron" 
+ />
+    <glyph glyph-name="ncaron" 
+ />
+    <glyph glyph-name="Omacron" 
+ />
+    <glyph glyph-name="omacron" 
+ />
+    <glyph glyph-name="Ohungarumlaut" 
+ />
+    <glyph glyph-name="ohungarumlaut" 
+ />
+    <glyph glyph-name="OE" 
+ />
+    <glyph glyph-name="oe" 
+ />
+    <glyph glyph-name="Racute" 
+ />
+    <glyph glyph-name="racute" 
+ />
+    <glyph glyph-name="uni0156" 
+ />
+    <glyph glyph-name="uni0157" 
+ />
+    <glyph glyph-name="Rcaron" 
+ />
+    <glyph glyph-name="rcaron" 
+ />
+    <glyph glyph-name="Sacute" 
+ />
+    <glyph glyph-name="sacute" 
+ />
+    <glyph glyph-name="Scedilla" 
+ />
+    <glyph glyph-name="scedilla" 
+ />
+    <glyph glyph-name="Scaron" 
+ />
+    <glyph glyph-name="scaron" 
+ />
+    <glyph glyph-name="uni0162" 
+ />
+    <glyph glyph-name="uni0163" 
+ />
+    <glyph glyph-name="Tcaron" 
+ />
+    <glyph glyph-name="tcaron" 
+ />
+    <glyph glyph-name="Tbar" 
+ />
+    <glyph glyph-name="tbar" 
+ />
+    <glyph glyph-name="Umacron" 
+ />
+    <glyph glyph-name="umacron" 
+ />
+    <glyph glyph-name="Uring" 
+ />
+    <glyph glyph-name="uring" 
+ />
+    <glyph glyph-name="Uhungarumlaut" 
+ />
+    <glyph glyph-name="uhungarumlaut" 
+ />
+    <glyph glyph-name="Uogonek" 
+ />
+    <glyph glyph-name="uogonek" 
+ />
+    <glyph glyph-name="Wcircumflex" 
+ />
+    <glyph glyph-name="wcircumflex" 
+ />
+    <glyph glyph-name="Ycircumflex" 
+ />
+    <glyph glyph-name="ycircumflex" 
+ />
+    <glyph glyph-name="Ydieresis" 
+ />
+    <glyph glyph-name="Zacute" 
+ />
+    <glyph glyph-name="zacute" 
+ />
+    <glyph glyph-name="Zdotaccent" 
+ />
+    <glyph glyph-name="zdotaccent" 
+ />
+    <glyph glyph-name="Zcaron" 
+ />
+    <glyph glyph-name="zcaron" 
+ />
+    <glyph glyph-name="uni0218" 
+ />
+    <glyph glyph-name="uni0219" 
+ />
+    <glyph glyph-name="uni021A" 
+ />
+    <glyph glyph-name="uni021B" 
+ />
+    <glyph glyph-name="circumflex" 
+ />
+    <glyph glyph-name="caron" 
+ />
+    <glyph glyph-name="breve" 
+ />
+    <glyph glyph-name="dotaccent" 
+ />
+    <glyph glyph-name="ring" 
+ />
+    <glyph glyph-name="ogonek" 
+ />
+    <glyph glyph-name="tilde" 
+ />
+    <glyph glyph-name="hungarumlaut" 
+ />
+    <glyph glyph-name="gravecomb" 
+ />
+    <glyph glyph-name="acutecomb" 
+ />
+    <glyph glyph-name="uni0302" 
+ />
+    <glyph glyph-name="tildecomb" 
+ />
+    <glyph glyph-name="uni0304" 
+ />
+    <glyph glyph-name="uni0306" 
+ />
+    <glyph glyph-name="uni0307" 
+ />
+    <glyph glyph-name="uni0308" 
+ />
+    <glyph glyph-name="uni030A" 
+ />
+    <glyph glyph-name="uni030B" 
+ />
+    <glyph glyph-name="uni030C" 
+ />
+    <glyph glyph-name="uni0312" 
+ />
+    <glyph glyph-name="uni0326" 
+ />
+    <glyph glyph-name="uni0327" 
+ />
+    <glyph glyph-name="uni0328" 
+ />
+    <glyph glyph-name="uni0335" 
+ />
+    <glyph glyph-name="uni0336" 
+ />
+    <glyph glyph-name="uni0337" 
+ />
+    <glyph glyph-name="uni0338" 
+ />
+    <glyph glyph-name="Wgrave" 
+ />
+    <glyph glyph-name="wgrave" 
+ />
+    <glyph glyph-name="Wacute" 
+ />
+    <glyph glyph-name="wacute" 
+ />
+    <glyph glyph-name="Wdieresis" 
+ />
+    <glyph glyph-name="wdieresis" 
+ />
+    <glyph glyph-name="Ygrave" 
+ />
+    <glyph glyph-name="ygrave" 
+ />
+    <glyph glyph-name="endash" 
+ />
+    <glyph glyph-name="emdash" 
+ />
+    <glyph glyph-name="quoteleft" 
+ />
+    <glyph glyph-name="quotedblbase" 
+ />
+    <glyph glyph-name="dagger" 
+ />
+    <glyph glyph-name="daggerdbl" 
+ />
+    <glyph glyph-name="bullet" 
+ />
+    <glyph glyph-name="ellipsis" 
+ />
+    <glyph glyph-name="perthousand" 
+ />
+    <glyph glyph-name="guilsinglleft" 
+ />
+    <glyph glyph-name="guilsinglright" 
+ />
+    <glyph glyph-name="fraction" 
+ />
+    <glyph glyph-name="Euro" 
+ />
+    <glyph glyph-name="trademark" 
+ />
+    <glyph glyph-name="minus" 
+ />
+    <glyph glyph-name="A.ss01" 
+ />
+    <glyph glyph-name="Aacute.ss01" 
+ />
+    <glyph glyph-name="Abreve.ss01" 
+ />
+    <glyph glyph-name="Acircumflex.ss01" 
+ />
+    <glyph glyph-name="Adieresis.ss01" 
+ />
+    <glyph glyph-name="Agrave.ss01" 
+ />
+    <glyph glyph-name="Amacron.ss01" 
+ />
+    <glyph glyph-name="Aogonek.ss01" 
+ />
+    <glyph glyph-name="Aring.ss01" 
+ />
+    <glyph glyph-name="Atilde.ss01" 
+ />
+    <glyph glyph-name="AE.ss01" 
+ />
+    <glyph glyph-name="B.ss01" 
+ />
+    <glyph glyph-name="C.ss01" 
+ />
+    <glyph glyph-name="Cacute.ss01" 
+ />
+    <glyph glyph-name="Ccaron.ss01" 
+ />
+    <glyph glyph-name="Ccedilla.ss01" 
+ />
+    <glyph glyph-name="Cdotaccent.ss01" 
+ />
+    <glyph glyph-name="D.ss01" 
+ />
+    <glyph glyph-name="Eth.ss01" 
+ />
+    <glyph glyph-name="Dcaron.ss01" 
+ />
+    <glyph glyph-name="Dcroat.ss01" 
+ />
+    <glyph glyph-name="E.ss01" 
+ />
+    <glyph glyph-name="Eacute.ss01" 
+ />
+    <glyph glyph-name="Ecaron.ss01" 
+ />
+    <glyph glyph-name="Ecircumflex.ss01" 
+ />
+    <glyph glyph-name="Edieresis.ss01" 
+ />
+    <glyph glyph-name="Edotaccent.ss01" 
+ />
+    <glyph glyph-name="Egrave.ss01" 
+ />
+    <glyph glyph-name="Emacron.ss01" 
+ />
+    <glyph glyph-name="Eogonek.ss01" 
+ />
+    <glyph glyph-name="F.ss01" 
+ />
+    <glyph glyph-name="G.ss01" 
+ />
+    <glyph glyph-name="Gbreve.ss01" 
+ />
+    <glyph glyph-name="uni0122.ss01" 
+ />
+    <glyph glyph-name="Gdotaccent.ss01" 
+ />
+    <glyph glyph-name="H.ss01" 
+ />
+    <glyph glyph-name="Hbar.ss01" 
+ />
+    <glyph glyph-name="I.ss01" 
+ />
+    <glyph glyph-name="Iacute.ss01" 
+ />
+    <glyph glyph-name="Icircumflex.ss01" 
+ />
+    <glyph glyph-name="Idieresis.ss01" 
+ />
+    <glyph glyph-name="Idotaccent.ss01" 
+ />
+    <glyph glyph-name="Igrave.ss01" 
+ />
+    <glyph glyph-name="Imacron.ss01" 
+ />
+    <glyph glyph-name="Iogonek.ss01" 
+ />
+    <glyph glyph-name="J.ss01" 
+ />
+    <glyph glyph-name="K.ss01" 
+ />
+    <glyph glyph-name="uni0136.ss01" 
+ />
+    <glyph glyph-name="L.ss01" 
+ />
+    <glyph glyph-name="Lacute.ss01" 
+ />
+    <glyph glyph-name="Lcaron.ss01" 
+ />
+    <glyph glyph-name="uni013B.ss01" 
+ />
+    <glyph glyph-name="Lslash.ss01" 
+ />
+    <glyph glyph-name="M.ss01" 
+ />
+    <glyph glyph-name="N.ss01" 
+ />
+    <glyph glyph-name="Nacute.ss01" 
+ />
+    <glyph glyph-name="Ncaron.ss01" 
+ />
+    <glyph glyph-name="uni0145.ss01" 
+ />
+    <glyph glyph-name="Ntilde.ss01" 
+ />
+    <glyph glyph-name="O.ss01" 
+ />
+    <glyph glyph-name="Oacute.ss01" 
+ />
+    <glyph glyph-name="Ocircumflex.ss01" 
+ />
+    <glyph glyph-name="Odieresis.ss01" 
+ />
+    <glyph glyph-name="Ograve.ss01" 
+ />
+    <glyph glyph-name="Ohungarumlaut.ss01" 
+ />
+    <glyph glyph-name="Omacron.ss01" 
+ />
+    <glyph glyph-name="Oslash.ss01" 
+ />
+    <glyph glyph-name="Otilde.ss01" 
+ />
+    <glyph glyph-name="OE.ss01" 
+ />
+    <glyph glyph-name="P.ss01" 
+ />
+    <glyph glyph-name="Thorn.ss01" 
+ />
+    <glyph glyph-name="Q.ss01" 
+ />
+    <glyph glyph-name="R.ss01" 
+ />
+    <glyph glyph-name="Racute.ss01" 
+ />
+    <glyph glyph-name="Rcaron.ss01" 
+ />
+    <glyph glyph-name="uni0156.ss01" 
+ />
+    <glyph glyph-name="S.ss01" 
+ />
+    <glyph glyph-name="Sacute.ss01" 
+ />
+    <glyph glyph-name="Scaron.ss01" 
+ />
+    <glyph glyph-name="Scedilla.ss01" 
+ />
+    <glyph glyph-name="uni0218.ss01" 
+ />
+    <glyph glyph-name="T.ss01" 
+ />
+    <glyph glyph-name="Tbar.ss01" 
+ />
+    <glyph glyph-name="Tcaron.ss01" 
+ />
+    <glyph glyph-name="uni0162.ss01" 
+ />
+    <glyph glyph-name="uni021A.ss01" 
+ />
+    <glyph glyph-name="U.ss01" 
+ />
+    <glyph glyph-name="Uacute.ss01" 
+ />
+    <glyph glyph-name="Ucircumflex.ss01" 
+ />
+    <glyph glyph-name="Udieresis.ss01" 
+ />
+    <glyph glyph-name="Ugrave.ss01" 
+ />
+    <glyph glyph-name="Uhungarumlaut.ss01" 
+ />
+    <glyph glyph-name="Umacron.ss01" 
+ />
+    <glyph glyph-name="Uogonek.ss01" 
+ />
+    <glyph glyph-name="Uring.ss01" 
+ />
+    <glyph glyph-name="V.ss01" 
+ />
+    <glyph glyph-name="W.ss01" 
+ />
+    <glyph glyph-name="Wacute.ss01" 
+ />
+    <glyph glyph-name="Wcircumflex.ss01" 
+ />
+    <glyph glyph-name="Wdieresis.ss01" 
+ />
+    <glyph glyph-name="Wgrave.ss01" 
+ />
+    <glyph glyph-name="X.ss01" 
+ />
+    <glyph glyph-name="Y.ss01" 
+ />
+    <glyph glyph-name="Yacute.ss01" 
+ />
+    <glyph glyph-name="Ycircumflex.ss01" 
+ />
+    <glyph glyph-name="Ydieresis.ss01" 
+ />
+    <glyph glyph-name="Ygrave.ss01" 
+ />
+    <glyph glyph-name="Z.ss01" 
+ />
+    <glyph glyph-name="Zacute.ss01" 
+ />
+    <glyph glyph-name="Zcaron.ss01" 
+ />
+    <glyph glyph-name="Zdotaccent.ss01" 
+ />
+    <glyph glyph-name="L.ss02" 
+ />
+    <glyph glyph-name="Lacute.ss02" 
+ />
+    <glyph glyph-name="Lcaron.ss02" 
+ />
+    <glyph glyph-name="uni013B.ss02" 
+ />
+    <glyph glyph-name="Lslash.ss02" 
+ />
+    <glyph glyph-name="S.ss02" 
+ />
+    <glyph glyph-name="Sacute.ss02" 
+ />
+    <glyph glyph-name="Scaron.ss02" 
+ />
+    <glyph glyph-name="Scedilla.ss02" 
+ />
+    <glyph glyph-name="uni0218.ss02" 
+ />
+    <glyph glyph-name="A.ss03" 
+ />
+    <glyph glyph-name="Aacute.ss03" 
+ />
+    <glyph glyph-name="Abreve.ss03" 
+ />
+    <glyph glyph-name="Acircumflex.ss03" 
+ />
+    <glyph glyph-name="Adieresis.ss03" 
+ />
+    <glyph glyph-name="Agrave.ss03" 
+ />
+    <glyph glyph-name="Amacron.ss03" 
+ />
+    <glyph glyph-name="Aogonek.ss03" 
+ />
+    <glyph glyph-name="Aring.ss03" 
+ />
+    <glyph glyph-name="Atilde.ss03" 
+ />
+    <glyph glyph-name="A.ss04" 
+ />
+    <glyph glyph-name="Aacute.ss04" 
+ />
+    <glyph glyph-name="Abreve.ss04" 
+ />
+    <glyph glyph-name="Acircumflex.ss04" 
+ />
+    <glyph glyph-name="Adieresis.ss04" 
+ />
+    <glyph glyph-name="Agrave.ss04" 
+ />
+    <glyph glyph-name="Amacron.ss04" 
+ />
+    <glyph glyph-name="Aogonek.ss04" 
+ />
+    <glyph glyph-name="Aring.ss04" 
+ />
+    <glyph glyph-name="Atilde.ss04" 
+ />
+    <glyph glyph-name="A.ss05" 
+ />
+    <glyph glyph-name="Aacute.ss05" 
+ />
+    <glyph glyph-name="Abreve.ss05" 
+ />
+    <glyph glyph-name="Acircumflex.ss05" 
+ />
+    <glyph glyph-name="Adieresis.ss05" 
+ />
+    <glyph glyph-name="Agrave.ss05" 
+ />
+    <glyph glyph-name="Amacron.ss05" 
+ />
+    <glyph glyph-name="Aogonek.ss05" 
+ />
+    <glyph glyph-name="Aring.ss05" 
+ />
+    <glyph glyph-name="Atilde.ss05" 
+ />
+    <glyph glyph-name="i.loclTRK" 
+ />
+    <glyph glyph-name="s.fina" 
+ />
+    <glyph glyph-name="sacute.fina" 
+ />
+    <glyph glyph-name="scaron.fina" 
+ />
+    <glyph glyph-name="scedilla.fina" 
+ />
+    <glyph glyph-name="uni0219.fina" 
+ />
+    <glyph glyph-name="b.init" 
+ />
+    <glyph glyph-name="f.init" 
+ />
+    <glyph glyph-name="h.init" 
+ />
+    <glyph glyph-name="k.init" 
+ />
+    <glyph glyph-name="l.init" 
+ />
+    <glyph glyph-name="lacute.init" 
+ />
+    <glyph glyph-name="lcaron.init" 
+ />
+    <glyph glyph-name="uni013C.init" 
+ />
+    <glyph glyph-name="lslash.init" 
+ />
+    <glyph glyph-name="f.ss01" 
+ />
+    <glyph glyph-name="g.ss01" 
+ />
+    <glyph glyph-name="gbreve.ss01" 
+ />
+    <glyph glyph-name="uni0123.ss01" 
+ />
+    <glyph glyph-name="gdotaccent.ss01" 
+ />
+    <glyph glyph-name="j.ss01" 
+ />
+    <glyph glyph-name="l.ss01" 
+ />
+    <glyph glyph-name="lacute.ss01" 
+ />
+    <glyph glyph-name="lcaron.ss01" 
+ />
+    <glyph glyph-name="uni013C.ss01" 
+ />
+    <glyph glyph-name="lslash.ss01" 
+ />
+    <glyph glyph-name="n.ss01" 
+ />
+    <glyph glyph-name="nacute.ss01" 
+ />
+    <glyph glyph-name="ncaron.ss01" 
+ />
+    <glyph glyph-name="uni0146.ss01" 
+ />
+    <glyph glyph-name="ntilde.ss01" 
+ />
+    <glyph glyph-name="r.ss01" 
+ />
+    <glyph glyph-name="racute.ss01" 
+ />
+    <glyph glyph-name="rcaron.ss01" 
+ />
+    <glyph glyph-name="uni0157.ss01" 
+ />
+    <glyph glyph-name="t.ss01" 
+ />
+    <glyph glyph-name="tbar.ss01" 
+ />
+    <glyph glyph-name="tcaron.ss01" 
+ />
+    <glyph glyph-name="uni0163.ss01" 
+ />
+    <glyph glyph-name="uni021B.ss01" 
+ />
+    <glyph glyph-name="x.ss01" 
+ />
+    <glyph glyph-name="y.ss01" 
+ />
+    <glyph glyph-name="yacute.ss01" 
+ />
+    <glyph glyph-name="ycircumflex.ss01" 
+ />
+    <glyph glyph-name="ydieresis.ss01" 
+ />
+    <glyph glyph-name="ygrave.ss01" 
+ />
+    <glyph glyph-name="a.ss02" 
+ />
+    <glyph glyph-name="aacute.ss02" 
+ />
+    <glyph glyph-name="abreve.ss02" 
+ />
+    <glyph glyph-name="acircumflex.ss02" 
+ />
+    <glyph glyph-name="adieresis.ss02" 
+ />
+    <glyph glyph-name="agrave.ss02" 
+ />
+    <glyph glyph-name="amacron.ss02" 
+ />
+    <glyph glyph-name="aogonek.ss02" 
+ />
+    <glyph glyph-name="aring.ss02" 
+ />
+    <glyph glyph-name="atilde.ss02" 
+ />
+    <glyph glyph-name="c.ss02" 
+ />
+    <glyph glyph-name="cacute.ss02" 
+ />
+    <glyph glyph-name="ccaron.ss02" 
+ />
+    <glyph glyph-name="ccedilla.ss02" 
+ />
+    <glyph glyph-name="cdotaccent.ss02" 
+ />
+    <glyph glyph-name="d.ss02" 
+ />
+    <glyph glyph-name="dcaron.ss02" 
+ />
+    <glyph glyph-name="dcroat.ss02" 
+ />
+    <glyph glyph-name="e.ss02" 
+ />
+    <glyph glyph-name="eacute.ss02" 
+ />
+    <glyph glyph-name="ecaron.ss02" 
+ />
+    <glyph glyph-name="ecircumflex.ss02" 
+ />
+    <glyph glyph-name="edieresis.ss02" 
+ />
+    <glyph glyph-name="edotaccent.ss02" 
+ />
+    <glyph glyph-name="egrave.ss02" 
+ />
+    <glyph glyph-name="emacron.ss02" 
+ />
+    <glyph glyph-name="eogonek.ss02" 
+ />
+    <glyph glyph-name="i.ss02" 
+ />
+    <glyph glyph-name="dotlessi.ss02" 
+ />
+    <glyph glyph-name="iacute.ss02" 
+ />
+    <glyph glyph-name="icircumflex.ss02" 
+ />
+    <glyph glyph-name="idieresis.ss02" 
+ />
+    <glyph glyph-name="i.loclTRK.ss02" 
+ />
+    <glyph glyph-name="igrave.ss02" 
+ />
+    <glyph glyph-name="imacron.ss02" 
+ />
+    <glyph glyph-name="iogonek.ss02" 
+ />
+    <glyph glyph-name="k.ss02" 
+ />
+    <glyph glyph-name="l.ss02" 
+ />
+    <glyph glyph-name="lcaron.ss02" 
+ />
+    <glyph glyph-name="m.ss02" 
+ />
+    <glyph glyph-name="n.ss02" 
+ />
+    <glyph glyph-name="nacute.ss02" 
+ />
+    <glyph glyph-name="ncaron.ss02" 
+ />
+    <glyph glyph-name="uni0146.ss02" 
+ />
+    <glyph glyph-name="ntilde.ss02" 
+ />
+    <glyph glyph-name="o.ss02" 
+ />
+    <glyph glyph-name="oacute.ss02" 
+ />
+    <glyph glyph-name="ocircumflex.ss02" 
+ />
+    <glyph glyph-name="odieresis.ss02" 
+ />
+    <glyph glyph-name="ograve.ss02" 
+ />
+    <glyph glyph-name="ohungarumlaut.ss02" 
+ />
+    <glyph glyph-name="omacron.ss02" 
+ />
+    <glyph glyph-name="oslash.ss02" 
+ />
+    <glyph glyph-name="otilde.ss02" 
+ />
+    <glyph glyph-name="p.ss02" 
+ />
+    <glyph glyph-name="r.ss02" 
+ />
+    <glyph glyph-name="racute.ss02" 
+ />
+    <glyph glyph-name="rcaron.ss02" 
+ />
+    <glyph glyph-name="uni0157.ss02" 
+ />
+    <glyph glyph-name="s.ss02" 
+ />
+    <glyph glyph-name="sacute.ss02" 
+ />
+    <glyph glyph-name="scaron.ss02" 
+ />
+    <glyph glyph-name="scedilla.ss02" 
+ />
+    <glyph glyph-name="uni0219.ss02" 
+ />
+    <glyph glyph-name="t.ss02" 
+ />
+    <glyph glyph-name="tbar.ss02" 
+ />
+    <glyph glyph-name="tcaron.ss02" 
+ />
+    <glyph glyph-name="uni0163.ss02" 
+ />
+    <glyph glyph-name="uni021B.ss02" 
+ />
+    <glyph glyph-name="u.ss02" 
+ />
+    <glyph glyph-name="uacute.ss02" 
+ />
+    <glyph glyph-name="ucircumflex.ss02" 
+ />
+    <glyph glyph-name="udieresis.ss02" 
+ />
+    <glyph glyph-name="ugrave.ss02" 
+ />
+    <glyph glyph-name="uhungarumlaut.ss02" 
+ />
+    <glyph glyph-name="umacron.ss02" 
+ />
+    <glyph glyph-name="uogonek.ss02" 
+ />
+    <glyph glyph-name="uring.ss02" 
+ />
+    <glyph glyph-name="w.ss02" 
+ />
+    <glyph glyph-name="wacute.ss02" 
+ />
+    <glyph glyph-name="wcircumflex.ss02" 
+ />
+    <glyph glyph-name="wdieresis.ss02" 
+ />
+    <glyph glyph-name="wgrave.ss02" 
+ />
+    <glyph glyph-name="d.ss03" 
+ />
+    <glyph glyph-name="dcaron.ss03" 
+ />
+    <glyph glyph-name="dcroat.ss03" 
+ />
+    <glyph glyph-name="o.ss03" 
+ />
+    <glyph glyph-name="oacute.ss03" 
+ />
+    <glyph glyph-name="ocircumflex.ss03" 
+ />
+    <glyph glyph-name="odieresis.ss03" 
+ />
+    <glyph glyph-name="ograve.ss03" 
+ />
+    <glyph glyph-name="ohungarumlaut.ss03" 
+ />
+    <glyph glyph-name="omacron.ss03" 
+ />
+    <glyph glyph-name="oslash.ss03" 
+ />
+    <glyph glyph-name="otilde.ss03" 
+ />
+    <glyph glyph-name="r.ss03" 
+ />
+    <glyph glyph-name="racute.ss03" 
+ />
+    <glyph glyph-name="rcaron.ss03" 
+ />
+    <glyph glyph-name="uni0157.ss03" 
+ />
+    <glyph glyph-name="t.ss03" 
+ />
+    <glyph glyph-name="tbar.ss03" 
+ />
+    <glyph glyph-name="tcaron.ss03" 
+ />
+    <glyph glyph-name="uni0163.ss03" 
+ />
+    <glyph glyph-name="uni021B.ss03" 
+ />
+    <glyph glyph-name="r.ss04" 
+ />
+    <glyph glyph-name="racute.ss04" 
+ />
+    <glyph glyph-name="rcaron.ss04" 
+ />
+    <glyph glyph-name="uni0157.ss04" 
+ />
+    <glyph glyph-name="a.ss05" 
+ />
+    <glyph glyph-name="aacute.ss05" 
+ />
+    <glyph glyph-name="abreve.ss05" 
+ />
+    <glyph glyph-name="acircumflex.ss05" 
+ />
+    <glyph glyph-name="adieresis.ss05" 
+ />
+    <glyph glyph-name="agrave.ss05" 
+ />
+    <glyph glyph-name="amacron.ss05" 
+ />
+    <glyph glyph-name="aogonek.ss05" 
+ />
+    <glyph glyph-name="aring.ss05" 
+ />
+    <glyph glyph-name="atilde.ss05" 
+ />
+    <glyph glyph-name="b.ss05" 
+ />
+    <glyph glyph-name="c.ss05" 
+ />
+    <glyph glyph-name="cacute.ss05" 
+ />
+    <glyph glyph-name="ccaron.ss05" 
+ />
+    <glyph glyph-name="ccedilla.ss05" 
+ />
+    <glyph glyph-name="cdotaccent.ss05" 
+ />
+    <glyph glyph-name="d.ss05" 
+ />
+    <glyph glyph-name="dcaron.ss05" 
+ />
+    <glyph glyph-name="dcroat.ss05" 
+ />
+    <glyph glyph-name="e.ss05" 
+ />
+    <glyph glyph-name="eacute.ss05" 
+ />
+    <glyph glyph-name="ecaron.ss05" 
+ />
+    <glyph glyph-name="ecircumflex.ss05" 
+ />
+    <glyph glyph-name="edieresis.ss05" 
+ />
+    <glyph glyph-name="edotaccent.ss05" 
+ />
+    <glyph glyph-name="egrave.ss05" 
+ />
+    <glyph glyph-name="emacron.ss05" 
+ />
+    <glyph glyph-name="eogonek.ss05" 
+ />
+    <glyph glyph-name="f.ss05" 
+ />
+    <glyph glyph-name="g.ss05" 
+ />
+    <glyph glyph-name="gbreve.ss05" 
+ />
+    <glyph glyph-name="uni0123.ss05" 
+ />
+    <glyph glyph-name="gdotaccent.ss05" 
+ />
+    <glyph glyph-name="h.ss05" 
+ />
+    <glyph glyph-name="hbar.ss05" 
+ />
+    <glyph glyph-name="i.ss05" 
+ />
+    <glyph glyph-name="dotlessi.ss05" 
+ />
+    <glyph glyph-name="iacute.ss05" 
+ />
+    <glyph glyph-name="icircumflex.ss05" 
+ />
+    <glyph glyph-name="idieresis.ss05" 
+ />
+    <glyph glyph-name="i.loclTRK.ss05" 
+ />
+    <glyph glyph-name="igrave.ss05" 
+ />
+    <glyph glyph-name="imacron.ss05" 
+ />
+    <glyph glyph-name="iogonek.ss05" 
+ />
+    <glyph glyph-name="j.ss05" 
+ />
+    <glyph glyph-name="k.ss05" 
+ />
+    <glyph glyph-name="uni0137.ss05" 
+ />
+    <glyph glyph-name="l.ss05" 
+ />
+    <glyph glyph-name="lacute.ss05" 
+ />
+    <glyph glyph-name="lcaron.ss05" 
+ />
+    <glyph glyph-name="uni013C.ss05" 
+ />
+    <glyph glyph-name="lslash.ss05" 
+ />
+    <glyph glyph-name="m.ss05" 
+ />
+    <glyph glyph-name="n.ss05" 
+ />
+    <glyph glyph-name="nacute.ss05" 
+ />
+    <glyph glyph-name="ncaron.ss05" 
+ />
+    <glyph glyph-name="uni0146.ss05" 
+ />
+    <glyph glyph-name="ntilde.ss05" 
+ />
+    <glyph glyph-name="o.ss05" 
+ />
+    <glyph glyph-name="oacute.ss05" 
+ />
+    <glyph glyph-name="ocircumflex.ss05" 
+ />
+    <glyph glyph-name="odieresis.ss05" 
+ />
+    <glyph glyph-name="ograve.ss05" 
+ />
+    <glyph glyph-name="ohungarumlaut.ss05" 
+ />
+    <glyph glyph-name="omacron.ss05" 
+ />
+    <glyph glyph-name="oslash.ss05" 
+ />
+    <glyph glyph-name="otilde.ss05" 
+ />
+    <glyph glyph-name="p.ss05" 
+ />
+    <glyph glyph-name="q.ss05" 
+ />
+    <glyph glyph-name="r.ss05" 
+ />
+    <glyph glyph-name="racute.ss05" 
+ />
+    <glyph glyph-name="rcaron.ss05" 
+ />
+    <glyph glyph-name="uni0157.ss05" 
+ />
+    <glyph glyph-name="s.ss05" 
+ />
+    <glyph glyph-name="sacute.ss05" 
+ />
+    <glyph glyph-name="scaron.ss05" 
+ />
+    <glyph glyph-name="scedilla.ss05" 
+ />
+    <glyph glyph-name="uni0219.ss05" 
+ />
+    <glyph glyph-name="t.ss05" 
+ />
+    <glyph glyph-name="tbar.ss05" 
+ />
+    <glyph glyph-name="tcaron.ss05" 
+ />
+    <glyph glyph-name="uni0163.ss05" 
+ />
+    <glyph glyph-name="uni021B.ss05" 
+ />
+    <glyph glyph-name="u.ss05" 
+ />
+    <glyph glyph-name="uacute.ss05" 
+ />
+    <glyph glyph-name="ucircumflex.ss05" 
+ />
+    <glyph glyph-name="udieresis.ss05" 
+ />
+    <glyph glyph-name="ugrave.ss05" 
+ />
+    <glyph glyph-name="uhungarumlaut.ss05" 
+ />
+    <glyph glyph-name="umacron.ss05" 
+ />
+    <glyph glyph-name="uogonek.ss05" 
+ />
+    <glyph glyph-name="uring.ss05" 
+ />
+    <glyph glyph-name="v.ss05" 
+ />
+    <glyph glyph-name="w.ss05" 
+ />
+    <glyph glyph-name="wacute.ss05" 
+ />
+    <glyph glyph-name="wcircumflex.ss05" 
+ />
+    <glyph glyph-name="wdieresis.ss05" 
+ />
+    <glyph glyph-name="wgrave.ss05" 
+ />
+    <glyph glyph-name="x.ss05" 
+ />
+    <glyph glyph-name="y.ss05" 
+ />
+    <glyph glyph-name="yacute.ss05" 
+ />
+    <glyph glyph-name="ycircumflex.ss05" 
+ />
+    <glyph glyph-name="ydieresis.ss05" 
+ />
+    <glyph glyph-name="ygrave.ss05" 
+ />
+    <glyph glyph-name="z.ss05" 
+ />
+    <glyph glyph-name="zacute.ss05" 
+ />
+    <glyph glyph-name="zcaron.ss05" 
+ />
+    <glyph glyph-name="zdotaccent.ss05" 
+ />
+    <glyph glyph-name="a.ss06" 
+ />
+    <glyph glyph-name="aacute.ss06" 
+ />
+    <glyph glyph-name="abreve.ss06" 
+ />
+    <glyph glyph-name="acircumflex.ss06" 
+ />
+    <glyph glyph-name="adieresis.ss06" 
+ />
+    <glyph glyph-name="agrave.ss06" 
+ />
+    <glyph glyph-name="amacron.ss06" 
+ />
+    <glyph glyph-name="aogonek.ss06" 
+ />
+    <glyph glyph-name="aring.ss06" 
+ />
+    <glyph glyph-name="atilde.ss06" 
+ />
+    <glyph glyph-name="b.ss06" 
+ />
+    <glyph glyph-name="c.ss06" 
+ />
+    <glyph glyph-name="cacute.ss06" 
+ />
+    <glyph glyph-name="ccaron.ss06" 
+ />
+    <glyph glyph-name="ccedilla.ss06" 
+ />
+    <glyph glyph-name="cdotaccent.ss06" 
+ />
+    <glyph glyph-name="d.ss06" 
+ />
+    <glyph glyph-name="dcaron.ss06" 
+ />
+    <glyph glyph-name="dcroat.ss06" 
+ />
+    <glyph glyph-name="e.ss06" 
+ />
+    <glyph glyph-name="eacute.ss06" 
+ />
+    <glyph glyph-name="ecaron.ss06" 
+ />
+    <glyph glyph-name="ecircumflex.ss06" 
+ />
+    <glyph glyph-name="edieresis.ss06" 
+ />
+    <glyph glyph-name="edotaccent.ss06" 
+ />
+    <glyph glyph-name="egrave.ss06" 
+ />
+    <glyph glyph-name="emacron.ss06" 
+ />
+    <glyph glyph-name="eogonek.ss06" 
+ />
+    <glyph glyph-name="f.ss06" 
+ />
+    <glyph glyph-name="g.ss06" 
+ />
+    <glyph glyph-name="gbreve.ss06" 
+ />
+    <glyph glyph-name="uni0123.ss06" 
+ />
+    <glyph glyph-name="gdotaccent.ss06" 
+ />
+    <glyph glyph-name="h.ss06" 
+ />
+    <glyph glyph-name="hbar.ss06" 
+ />
+    <glyph glyph-name="i.ss06" 
+ />
+    <glyph glyph-name="dotlessi.ss06" 
+ />
+    <glyph glyph-name="iacute.ss06" 
+ />
+    <glyph glyph-name="icircumflex.ss06" 
+ />
+    <glyph glyph-name="idieresis.ss06" 
+ />
+    <glyph glyph-name="i.loclTRK.ss06" 
+ />
+    <glyph glyph-name="igrave.ss06" 
+ />
+    <glyph glyph-name="imacron.ss06" 
+ />
+    <glyph glyph-name="iogonek.ss06" 
+ />
+    <glyph glyph-name="j.ss06" 
+ />
+    <glyph glyph-name="k.ss06" 
+ />
+    <glyph glyph-name="uni0137.ss06" 
+ />
+    <glyph glyph-name="l.ss06" 
+ />
+    <glyph glyph-name="lacute.ss06" 
+ />
+    <glyph glyph-name="lcaron.ss06" 
+ />
+    <glyph glyph-name="uni013C.ss06" 
+ />
+    <glyph glyph-name="lslash.ss06" 
+ />
+    <glyph glyph-name="m.ss06" 
+ />
+    <glyph glyph-name="n.ss06" 
+ />
+    <glyph glyph-name="nacute.ss06" 
+ />
+    <glyph glyph-name="ncaron.ss06" 
+ />
+    <glyph glyph-name="uni0146.ss06" 
+ />
+    <glyph glyph-name="ntilde.ss06" 
+ />
+    <glyph glyph-name="o.ss06" 
+ />
+    <glyph glyph-name="oacute.ss06" 
+ />
+    <glyph glyph-name="ocircumflex.ss06" 
+ />
+    <glyph glyph-name="odieresis.ss06" 
+ />
+    <glyph glyph-name="ograve.ss06" 
+ />
+    <glyph glyph-name="ohungarumlaut.ss06" 
+ />
+    <glyph glyph-name="omacron.ss06" 
+ />
+    <glyph glyph-name="oslash.ss06" 
+ />
+    <glyph glyph-name="otilde.ss06" 
+ />
+    <glyph glyph-name="p.ss06" 
+ />
+    <glyph glyph-name="q.ss06" 
+ />
+    <glyph glyph-name="r.ss06" 
+ />
+    <glyph glyph-name="racute.ss06" 
+ />
+    <glyph glyph-name="rcaron.ss06" 
+ />
+    <glyph glyph-name="uni0157.ss06" 
+ />
+    <glyph glyph-name="s.ss06" 
+ />
+    <glyph glyph-name="sacute.ss06" 
+ />
+    <glyph glyph-name="scaron.ss06" 
+ />
+    <glyph glyph-name="scedilla.ss06" 
+ />
+    <glyph glyph-name="uni0219.ss06" 
+ />
+    <glyph glyph-name="t.ss06" 
+ />
+    <glyph glyph-name="tbar.ss06" 
+ />
+    <glyph glyph-name="tcaron.ss06" 
+ />
+    <glyph glyph-name="uni0163.ss06" 
+ />
+    <glyph glyph-name="uni021B.ss06" 
+ />
+    <glyph glyph-name="u.ss06" 
+ />
+    <glyph glyph-name="uacute.ss06" 
+ />
+    <glyph glyph-name="ucircumflex.ss06" 
+ />
+    <glyph glyph-name="udieresis.ss06" 
+ />
+    <glyph glyph-name="ugrave.ss06" 
+ />
+    <glyph glyph-name="uhungarumlaut.ss06" 
+ />
+    <glyph glyph-name="umacron.ss06" 
+ />
+    <glyph glyph-name="uogonek.ss06" 
+ />
+    <glyph glyph-name="uring.ss06" 
+ />
+    <glyph glyph-name="v.ss06" 
+ />
+    <glyph glyph-name="w.ss06" 
+ />
+    <glyph glyph-name="wacute.ss06" 
+ />
+    <glyph glyph-name="wcircumflex.ss06" 
+ />
+    <glyph glyph-name="wdieresis.ss06" 
+ />
+    <glyph glyph-name="wgrave.ss06" 
+ />
+    <glyph glyph-name="y.ss06" 
+ />
+    <glyph glyph-name="yacute.ss06" 
+ />
+    <glyph glyph-name="ycircumflex.ss06" 
+ />
+    <glyph glyph-name="ydieresis.ss06" 
+ />
+    <glyph glyph-name="ygrave.ss06" 
+ />
+    <glyph glyph-name="z.ss06" 
+ />
+    <glyph glyph-name="zacute.ss06" 
+ />
+    <glyph glyph-name="zcaron.ss06" 
+ />
+    <glyph glyph-name="zdotaccent.ss06" 
+ />
+    <glyph glyph-name="g.swsh" 
+ />
+    <glyph glyph-name="gbreve.swsh" 
+ />
+    <glyph glyph-name="uni0123.swsh" 
+ />
+    <glyph glyph-name="gdotaccent.swsh" 
+ />
+    <glyph glyph-name="j.swsh" 
+ />
+    <glyph glyph-name="q.swsh" 
+ />
+    <glyph glyph-name="y.swsh" 
+ />
+    <glyph glyph-name="yacute.swsh" 
+ />
+    <glyph glyph-name="ycircumflex.swsh" 
+ />
+    <glyph glyph-name="ydieresis.swsh" 
+ />
+    <glyph glyph-name="ygrave.swsh" 
+ />
+    <glyph glyph-name="A_m" 
+ />
+    <glyph glyph-name="A_n" 
+ />
+    <glyph glyph-name="A_n_n" 
+ />
+    <glyph glyph-name="A_p" 
+ />
+    <glyph glyph-name="A_p_p" 
+ />
+    <glyph glyph-name="S_t" 
+ />
+    <glyph glyph-name="a_r" 
+ />
+    <glyph glyph-name="b_b" 
+ />
+    <glyph glyph-name="b_e" 
+ />
+    <glyph glyph-name="d_d" 
+ />
+    <glyph glyph-name="e_r" 
+ />
+    <glyph glyph-name="f_e" 
+ />
+    <glyph glyph-name="f_j" 
+ />
+    <glyph glyph-name="l_e" 
+ />
+    <glyph glyph-name="l_l" 
+ />
+    <glyph glyph-name="n_n" 
+ />
+    <glyph glyph-name="n_quotesingle_t" 
+ />
+    <glyph glyph-name="o_m" 
+ />
+    <glyph glyph-name="o_n" 
+ />
+    <glyph glyph-name="o_o" 
+ />
+    <glyph glyph-name="o_u" 
+ />
+    <glyph glyph-name="p_e" 
+ />
+    <glyph glyph-name="p_e_r" 
+ />
+    <glyph glyph-name="p_p" 
+ />
+    <glyph glyph-name="s_s_e" 
+ />
+    <glyph glyph-name="s_t" 
+ />
+    <glyph glyph-name="germandbls_e" 
+ />
+    <glyph glyph-name="t_h" 
+ />
+    <glyph glyph-name="t_h_e" 
+ />
+    <glyph glyph-name="t_t" 
+ />
+    <glyph glyph-name="t_quotesingle_s" 
+ />
+    <glyph glyph-name="u_r" 
+ />
+    <glyph glyph-name="v_e" 
+ />
+    <glyph glyph-name="w_r" 
+ />
+    <glyph glyph-name="s_s.fina" 
+ />
+    <glyph glyph-name="b_e.init" 
+ />
+    <glyph glyph-name="f_e.init" 
+ />
+    <glyph glyph-name="f_j.init" 
+ />
+    <glyph glyph-name="l_e.init" 
+ />
+    <glyph glyph-name="A_m.ss01" 
+ />
+    <glyph glyph-name="A_n.ss01" 
+ />
+    <glyph glyph-name="A_n_n.ss01" 
+ />
+    <glyph glyph-name="A_p.ss01" 
+ />
+    <glyph glyph-name="A_p_p.ss01" 
+ />
+    <glyph glyph-name="a_r.ss01" 
+ />
+    <glyph glyph-name="b_r.ss01" 
+ />
+    <glyph glyph-name="e_r.ss01" 
+ />
+    <glyph glyph-name="o_r.ss01" 
+ />
+    <glyph glyph-name="o_v.ss01" 
+ />
+    <glyph glyph-name="o_v_e.ss01" 
+ />
+    <glyph glyph-name="p_e_r.ss01" 
+ />
+    <glyph glyph-name="s_r.ss01" 
+ />
+    <glyph glyph-name="s_t.ss01" 
+ />
+    <glyph glyph-name="t_h.ss01" 
+ />
+    <glyph glyph-name="t_t.ss01" 
+ />
+    <glyph glyph-name="u_r.ss01" 
+ />
+    <glyph glyph-name="w_r.ss01" 
+ />
+    <glyph glyph-name="a_r.ss05" 
+ />
+    <glyph glyph-name="b_e.ss05" 
+ />
+    <glyph glyph-name="e_r.ss05" 
+ />
+    <glyph glyph-name="f_e.ss05" 
+ />
+    <glyph glyph-name="f_j.ss05" 
+ />
+    <glyph glyph-name="l_e.ss05" 
+ />
+    <glyph glyph-name="o_m.ss05" 
+ />
+    <glyph glyph-name="o_n.ss05" 
+ />
+    <glyph glyph-name="o_v.ss05" 
+ />
+    <glyph glyph-name="o_v_e.ss05" 
+ />
+    <glyph glyph-name="p_e.ss05" 
+ />
+    <glyph glyph-name="s_t.ss05" 
+ />
+    <glyph glyph-name="t_h.ss05" 
+ />
+    <glyph glyph-name="u_r.ss05" 
+ />
+    <glyph glyph-name="v_e.ss05" 
+ />
+    <glyph glyph-name="w_r.ss05" 
+ />
+    <glyph glyph-name="a_r.ss06" 
+ />
+    <glyph glyph-name="b_e.ss06" 
+ />
+    <glyph glyph-name="e_r.ss06" 
+ />
+    <glyph glyph-name="f_e.ss06" 
+ />
+    <glyph glyph-name="l_e.ss06" 
+ />
+    <glyph glyph-name="l_l.ss06" 
+ />
+    <glyph glyph-name="n_n.ss06" 
+ />
+    <glyph glyph-name="o_m.ss06" 
+ />
+    <glyph glyph-name="o_n.ss06" 
+ />
+    <glyph glyph-name="o_u.ss06" 
+ />
+    <glyph glyph-name="o_v.ss06" 
+ />
+    <glyph glyph-name="o_v_e.ss06" 
+ />
+    <glyph glyph-name="p_e.ss06" 
+ />
+    <glyph glyph-name="s_s.ss06" 
+ />
+    <glyph glyph-name="germandbls_e.ss06" 
+ />
+    <glyph glyph-name="u_r.ss06" 
+ />
+    <glyph glyph-name="v_e.ss06" 
+ />
+    <glyph glyph-name="w_r.ss06" 
+ />
+    <glyph glyph-name="s_r.ss07" 
+ />
+    <glyph glyph-name="s_t.ss07" 
+ />
+    <glyph glyph-name="s_r.ss08" 
+ />
+    <glyph glyph-name="zero.ss01" 
+ />
+    <glyph glyph-name="one.ss01" 
+ />
+    <glyph glyph-name="two.ss01" 
+ />
+    <glyph glyph-name="three.ss01" 
+ />
+    <glyph glyph-name="four.ss01" 
+ />
+    <glyph glyph-name="five.ss01" 
+ />
+    <glyph glyph-name="six.ss01" 
+ />
+    <glyph glyph-name="seven.ss01" 
+ />
+    <glyph glyph-name="eight.ss01" 
+ />
+    <glyph glyph-name="nine.ss01" 
+ />
+    <glyph glyph-name="two.ss02" 
+ />
+    <glyph glyph-name="two.ss03" 
+ />
+    <glyph glyph-name="quotesingle_s" 
+ />
+    <glyph glyph-name="T.ss02" 
+ />
+    <glyph glyph-name="T.ss03" 
+ />
+    <glyph glyph-name="Tbar.ss02" 
+ />
+    <glyph glyph-name="Tbar.ss03" 
+ />
+    <glyph glyph-name="Tcaron.ss02" 
+ />
+    <glyph glyph-name="Tcaron.ss03" 
+ />
+    <glyph glyph-name="uni0162.ss02" 
+ />
+    <glyph glyph-name="uni0162.ss03" 
+ />
+    <glyph glyph-name="uni021A.ss02" 
+ />
+    <glyph glyph-name="uni021A.ss03" 
+ />
+    <glyph glyph-name="g.ss08" 
+ />
+    <glyph glyph-name="gbreve.ss08" 
+ />
+    <glyph glyph-name="gcommaaccent.ss08" 
+ />
+    <glyph glyph-name="gdotaccent.ss08" 
+ />
+    <glyph glyph-name="j.ss08" 
+ />
+    <glyph glyph-name="y.ss08" 
+ />
+    <glyph glyph-name="yacute.ss08" 
+ />
+    <glyph glyph-name="ycircumflex.ss08" 
+ />
+    <glyph glyph-name="ydieresis.ss08" 
+ />
+    <glyph glyph-name="ygrave.ss08" 
+ />
+    <glyph glyph-name="CR" 
+ />
+    <glyph glyph-name="caroncomb.alt" 
+ />
+    <glyph glyph-name="uni0338.case.alt" 
+ />
+    <glyph glyph-name="uni0308.case" 
+ />
+    <glyph glyph-name="uni0307.case" 
+ />
+    <glyph glyph-name="gravecomb.case" 
+ />
+    <glyph glyph-name="acutecomb.case" 
+ />
+    <glyph glyph-name="uni0306.case" 
+ />
+    <glyph glyph-name="tildecomb.case" 
+ />
+    <glyph glyph-name="uni0304.case" 
+ />
+    <glyph glyph-name="uni0326.case" 
+ />
+    <glyph glyph-name="uni0335.case" 
+ />
+    <glyph glyph-name="uni0336.case" 
+ />
+    <glyph glyph-name="uni0338.case" 
+ />
+    <hkern u1="t" u2="&#x2e;" k="31" />
+    <hkern g1="L,L.ss01,L.ss02"
+	g2="a,a.ss02,a.ss05,a.ss06"
+	k="-7" />
+    <hkern g1="g"
+	g2="a,a.ss02,a.ss05,a.ss06"
+	k="-2" />
+    <hkern g1="p,p.ss02,p.ss05,p.ss06"
+	g2="s,sacute,scedilla,scaron,uni0219,s.fina,sacute.fina,scaron.fina,scedilla.fina,uni0219.fina,s.ss02,sacute.ss02,scaron.ss02,scedilla.ss02,uni0219.ss02,s.ss05,sacute.ss05,scaron.ss05,scedilla.ss05,uni0219.ss05,s.ss06,sacute.ss06,scaron.ss06,scedilla.ss06,uni0219.ss06"
+	k="-7" />
+    <hkern g1="r.ss01,racute.ss01,rcaron.ss01,uni0157.ss01,a_r.ss01,b_r.ss01,e_r.ss01,o_r.ss01,p_e_r.ss01,s_r.ss01,u_r.ss01,w_r.ss01"
+	g2="a,a.ss02,a.ss05,a.ss06"
+	k="9" />
+    <hkern g1="r.ss01,racute.ss01,rcaron.ss01,uni0157.ss01,a_r.ss01,b_r.ss01,e_r.ss01,o_r.ss01,p_e_r.ss01,s_r.ss01,u_r.ss01,w_r.ss01"
+	g2="comma,period,exclam,colon,semicolon,question,exclamdown,questiondown,ellipsis"
+	k="88" />
+    <hkern g1="r.ss01,racute.ss01,rcaron.ss01,uni0157.ss01,a_r.ss01,b_r.ss01,e_r.ss01,o_r.ss01,p_e_r.ss01,s_r.ss01,u_r.ss01,w_r.ss01"
+	g2="space"
+	k="110" />
+    <hkern g1="g.swsh,gbreve.swsh,uni0123.swsh,gdotaccent.swsh,j.swsh,y.swsh,yacute.swsh,ycircumflex.swsh,ydieresis.swsh,ygrave.swsh,g.ss08,j.ss08,y.ss08"
+	g2="space"
+	k="99" />
+    <hkern g1="space"
+	g2="t,uni0163,tcaron,tbar,uni021B,t.ss01,tbar.ss01,tcaron.ss01,uni0163.ss01,uni021B.ss01,t.ss02,tbar.ss02,tcaron.ss02,uni0163.ss02,uni021B.ss02,t.ss05,tbar.ss05,tcaron.ss05,uni0163.ss05,uni021B.ss05,t.ss06,tbar.ss06,tcaron.ss06,uni0163.ss06,uni021B.ss06,t_h,t_h_e,t_h.ss01"
+	k="-99" />
+  </font>
+</defs></svg>

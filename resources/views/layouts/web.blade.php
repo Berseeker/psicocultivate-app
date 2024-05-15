@@ -18,8 +18,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap"rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="{{ asset('vendors/web/bootstrap/css/bootstrap.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('vendors/web/animate/animate.min.css') }}" />
@@ -43,7 +43,7 @@
     <link rel="stylesheet" href="{{ asset('vendors/web/jquery-ui/jquery-ui.css') }}" />
     <link rel="stylesheet" href="{{ asset('vendors/web/timepicker/timePicker.css') }}" />
     <!-- template styles -->
-    <link rel="stylesheet" href="{{ asset('css/web/osiris_20.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/web/osiris_30.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/web/delogis-responsive_home.css') }}" />
 </head>
 

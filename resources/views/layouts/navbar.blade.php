@@ -5,7 +5,7 @@
                 <div class="main-menu-three__left">
                     <div class="main-menu-three__logo">
                         <a href="index.html">
-                          <img id="logo_main_top" src="images/logos/black.svg" alt="" style="display: none;">
+                          <img id="logo_main_top" src="images/logos/white_psicocultivate.svg" alt="" style="display: none;">
                           <img id="logo_main_scroll" src="images/logos/psicocultivate.svg" alt="">
                         </a>
                     </div>
@@ -13,7 +13,7 @@
                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                         <ul class="main-menu__list one-page-scroll-menu">
                             <li class="dropdown current megamenu scrollToLink">
-                                <a href="#home">Home </a>
+                                <a href="#home">Inicio </a>
                                 <ul>
                                     <li>
                                         <section class="home-showcase">
@@ -110,13 +110,13 @@
                                 </ul>
                             </li>
                             <li class="scrollToLink">
-                                <a href="#about">About</a>
+                                <a href="#about">Sobre mí</a>
                             </li>
                             <li class="scrollToLink">
-                                <a href="#services">Services</a>
+                                <a href="#cases">Servicios</a>
                             </li>
                             <li class="scrollToLink">
-                                <a href="#cases">Cases</a>
+                                <a href="#services">Comunidad</a>
                             </li>
                             <li class="scrollToLink">
                                 <a href="#blog">Blog</a>
@@ -130,9 +130,9 @@
                             <span class="icon-phone-call"></span>
                         </div>
                         <div class="main-menu-three__call-content">
-                            <p class="main-menu-three__call-sub-title">Have Question?</p>
-                            <h5 class="main-menu-three__call-number"><a href="tel:9288009850">+92 (8800) -
-                                    9850</a>
+                            <p class="main-menu-three__call-sub-title">Contácto</p>
+                            <h5 class="main-menu-three__call-number"><a href="tel:9288009850">+52 (998) -
+                                    290 1735</a>
                             </h5>
                         </div>
                     </div>
