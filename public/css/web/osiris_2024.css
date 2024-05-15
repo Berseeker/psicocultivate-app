@@ -17,6 +17,14 @@
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
+
+@font-face {
+  font-family: "Hatton";
+  src: url("/public/fonts/hatton/PP\ Hatton\ Ultralight\ 200.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --delogis-font: 'Lexend', sans-serif;
   --delogis-font-two: 'Castoro', serif;
@@ -901,6 +909,7 @@ ul {
 
 .main-menu .main-menu__list>li>a,
 .stricky-header .main-menu__list>li>a {
+  font-family: 'Hatton';
   font-size: 17px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -908,19 +917,18 @@ ul {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  color: black; /* var(--delogis-gray) */
+  color: #f1e5d5; /* var(--delogis-gray) */
   position: relative;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   font-weight: 600;
-  font-family: 'Quicksand', sans-serif;
 }
 
 .main-menu .main-menu__list>li.current>a,
 .main-menu .main-menu__list>li:hover>a,
 .stricky-header .main-menu__list>li.current>a,
 .stricky-header .main-menu__list>li:hover>a {
-  color: var(--delogis-black);
+  color: #f1e5d5; /* Color del navbar de la pagina de los textos */
   text-shadow: 0.05px 0 0 rgb(26 20 20 / 80%);
 }
 
@@ -1914,7 +1922,7 @@ ul {
 # Navigations Three
 --------------------------------------------------------------*/
 .main-header-three {
-  background: rgba(85, 164, 49, 0.5);
+  background: #4f6635;
   position: absolute;
   left: 0px;
   top: 0px;

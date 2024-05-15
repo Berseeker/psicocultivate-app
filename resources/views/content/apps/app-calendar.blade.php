@@ -25,8 +25,7 @@
 @endsection
 
 @section('page-script')
-<script src="{{asset('assets/js/app-calendar-events-modifiedt.js')}}"></script>
-<script src="{{asset('assets/js/app-calendar-modified.js')}}"></script>
+<script src="{{asset('assets/js/app-calendar-events.js')}}"></script>
 @endsection
 
 @section('content')
