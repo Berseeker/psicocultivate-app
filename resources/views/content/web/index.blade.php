@@ -15,7 +15,7 @@
                   <img src="{{ asset('/images/shapes/ramas_green.svg') }}" alt="">
               </div>
               <div class="main-slider-three__img">
-                  <img src="{{ asset('/images/sliders/home.png') }}" alt=""> <!-- imagen principal -->
+                  <img src="{{ asset('/images/sliders/inicio.png') }}" alt=""> <!-- imagen principal -->
               </div>
               <!--div class="main-slider-three__star-one zoominout">
                   <img src="{{ asset('/images/shapes/main-slider-three-star-1.png') }}" alt="">
