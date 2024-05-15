@@ -47,11 +47,12 @@
 }
 
 body {
-  font-family: var(--delogis-font);
   color: var(--delogis-gray);
   font-size: 15px;
   line-height: 30px;
+  font-family: "Comic Neue", cursive;
   font-weight: 400;
+  font-style: normal;
 }
 
 body.locked {
