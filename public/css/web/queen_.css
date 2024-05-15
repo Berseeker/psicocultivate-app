@@ -105,7 +105,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--delogis-font-two);
+  font-family: "Marcellus", serif;
   color: var(--delogis-black);
   margin: 0;
 }
@@ -2858,9 +2858,9 @@ ul {
   position: absolute;
   top: 10px;
   left: -10px;
-  width: 216px;
+  width: 250px; /* 216 original */
   height: 63px;
-  background-image: url(../../images/shapes/main-slider-three-shape-2.png);
+  background-image: url(../../images/shapes/circulo.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
